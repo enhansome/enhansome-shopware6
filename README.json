@@ -1,0 +1,1231 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mollie >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T13:49:29Z",
+            "owner": "mollie",
+            "repo": "Shopware6",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adyen >6.3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-20T10:41:22Z",
+            "owner": "Adyen",
+            "repo": "adyen-shopware6",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PayOne >6.1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-05T11:24:44Z",
+            "owner": "PAYONE-GmbH",
+            "repo": "shopware-6",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiSafePay >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-24T14:09:23Z",
+            "owner": "MultiSafepay",
+            "repo": "shopware6",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show SEPA payment fields on checkout page >6.3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-15T11:26:35Z",
+            "owner": "steampixel",
+            "repo": "SteamPixelSepa",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wallee >6.5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T08:43:52Z",
+            "owner": "wallee-payment",
+            "repo": "shopware-6",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pay.nl >6.3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-05T14:58:47Z",
+            "owner": "paynl",
+            "repo": "shopware6-plugin",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tpay Integration by CREHLER >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-08T08:24:07Z",
+            "owner": "crehler",
+            "repo": "CrehlerTpay",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buckaroo >6.5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T13:36:18Z",
+            "owner": "buckaroo-it",
+            "repo": "Shopware6",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burst >6.2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-12-14T08:43:19Z",
+            "owner": "felixbrucker",
+            "repo": "shopware-burst-payment",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Payment Service Providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flagbit/shopware6-tailwind-theme >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2022-02-10T16:05:18Z",
+            "owner": "flagbit",
+            "repo": "shopware6-tailwind-theme",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digitalmanufaktur - shopware6-manu-theme >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2023-02-10T16:27:38Z",
+            "owner": "digitalmanufaktur",
+            "repo": "shopware6-manu-theme",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Theme"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Product Compare >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2026-01-19T08:51:47Z",
+            "owner": "FriendsOfShopware",
+            "repo": "FroshProductCompare",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recently Viewed Product Slider >6.3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-09T09:14:17Z",
+            "owner": "vienthuong",
+            "repo": "RecentlyViewedProduct",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Banners / Digital Publishing <6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Twig",
+            "last_commit": "2023-09-04T09:32:42Z",
+            "owner": "runelaenen",
+            "repo": "shopware6-advanced-banners",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware Maps >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-03T14:35:30Z",
+            "owner": "Shape-and-Shift",
+            "repo": "shopware-maps",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elgentos - Seo Canonical URL >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2021-07-16T08:33:03Z",
+            "owner": "elgentos",
+            "repo": "shopware-seo-canonical-url",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Login required for categories >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-07-12T15:40:50Z",
+            "owner": "Shape-and-Shift",
+            "repo": "shopware-login-required",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropdown Menu >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-21T12:04:23Z",
+            "owner": "sschreier",
+            "repo": "SschreierDropdownMenu",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tab for Product Detail Page >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2025-10-11T06:02:06Z",
+            "owner": "sschreier",
+            "repo": "SschreierTabProductDetailPage",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lazysizes Lazyload images >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Twig",
+            "last_commit": "2022-10-14T08:00:30Z",
+            "owner": "stefanpoensgen",
+            "repo": "SptecLazyload",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Product Badges in Category and PDP >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2025-10-11T06:16:30Z",
+            "owner": "sschreier",
+            "repo": "SschreierBadgeNavigationProductDetailPage",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show discount line in cart summary >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2024-01-11T19:18:11Z",
+            "owner": "MelvinAchterhuis",
+            "repo": "MelvDiscountSummary",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware Animate On Scroll >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-19T14:43:35Z",
+            "owner": "Shape-and-Shift",
+            "repo": "shopware-aos",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware Tags",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-03-19T09:14:10Z",
+            "owner": "Shape-and-Shift",
+            "repo": "shopware-tags",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topbar or Footer Notifications >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2025-10-11T06:31:16Z",
+            "owner": "sschreier",
+            "repo": "SschreierTopbarNotifications",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sticky Menu >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2025-10-11T07:01:16Z",
+            "owner": "sschreier",
+            "repo": "SschreierStickyMenu",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deutsche Post Autocomplete >6.5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-02T11:58:58Z",
+            "owner": "netresearch",
+            "repo": "deutschepost-module-autocomplete-sw6",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show sold out information for variants >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-07-14T20:37:00Z",
+            "owner": "MelvinAchterhuis",
+            "repo": "MelvSoldOutVariants",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brand Slider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-26T14:44:48Z",
+            "owner": "moori-net",
+            "repo": "MoorlCmsBrandSlider",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elgentos - Default Sort Order >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-05-07T13:23:29Z",
+            "owner": "elgentos",
+            "repo": "shopware-default-sort-order",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Timeline integration >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-01T16:15:24Z",
+            "owner": "flagbit",
+            "repo": "shopware6-twitter",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matomo eCommerce tracking >6.6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2024-07-08T13:16:01Z",
+            "owner": "akshaynikhare",
+            "repo": "SloxMatomoEcomerce",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Media Icons >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-07-04T15:29:16Z",
+            "owner": "sebastianvolk",
+            "repo": "shopware-social-media-icons",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Product Flip/Hover Images >6.6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-23T13:49:44Z",
+            "owner": "sidworks-dev",
+            "repo": "sw-plugin-product-flip-image",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Editable meta robots by CREHLER >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-01-28T10:07:56Z",
+            "owner": "crehler",
+            "repo": "CrehlerMetaRobots",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Product Labels Plugin >6.6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-10T12:02:26Z",
+            "owner": "sidworks-dev",
+            "repo": "sw-plugin-product-labels",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VatLayer VAT check >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-08-06T11:30:23Z",
+            "owner": "Memo-ict",
+            "repo": "vatlayer-sw6",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "display additional currency in storefront >6.6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2024-07-08T13:15:50Z",
+            "owner": "akshaynikhare",
+            "repo": "SloxAdditionalCurrency",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show documents in separate tab >6.6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2025-11-10T07:18:55Z",
+            "owner": "ukeszler",
+            "repo": "KeszlerDocumentTab",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BerryPath Guided Selling Flow Widget >6.6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2026-07-22T11:58:05Z",
+            "owner": "BerryPath",
+            "repo": "shopware6-berrypath-flow",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopauskunft Integration > 6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2025-06-24T04:11:04Z",
+            "owner": "matzmuda",
+            "repo": "shopware6-shopauskunft-widget",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storefront (and product feed) shipping cost calculator >6.7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-28T06:25:44Z",
+            "owner": "ukeszler",
+            "repo": "KeszlerShippingContextPreset",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMS Elements >6.x",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Frontend"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Two Factor Auth 2FA > 6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-07T19:18:17Z",
+            "owner": "runelaenen",
+            "repo": "shopware6-two-factor-auth",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redirects >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-20T08:38:10Z",
+            "owner": "runelaenen",
+            "repo": "sw6-redirects",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Order Advanced Filter >6.3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2021-08-14T16:10:31Z",
+            "owner": "leduc92",
+            "repo": "sbuorderadvancedfilter",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zero Margin Default CMS Blocks >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-23T00:40:23Z",
+            "owner": "MelvinAchterhuis",
+            "repo": "MelvZeroMarginBlocks",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impersonation Admin User >6.3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-15T07:41:55Z",
+            "owner": "vienthuong",
+            "repo": "impersonation",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Total Quantity In Cart Rule >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-11-16T19:03:05Z",
+            "owner": "elgentos",
+            "repo": "shopware-total-qty-in-cart-rule",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Login as Customer >6.5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-28T00:34:21Z",
+            "owner": "Gainto",
+            "repo": "JblLoginAsCustomer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware orders scanner >6.3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-11-13T18:38:21Z",
+            "owner": "nikolayk812",
+            "repo": "shopware-orders-scanner",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto Meta Details >6.1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-01T09:32:43Z",
+            "owner": "DevertNet",
+            "repo": "DevertAutoMetaDetails",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show company name and VAT ID in backend >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-14T10:30:11Z",
+            "owner": "MelvinAchterhuis",
+            "repo": "MelvCustomerOverview",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abandoned Cart API extension >6.5.x",
+          "description": "(Adds endpoint to fetch carts from known customers)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-11T09:21:51Z",
+            "owner": "mailcampaigns",
+            "repo": "shopware-6-abandoned-cart-plugin",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maintenance Log-In >6.5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-07T13:08:09Z",
+            "owner": "Gainto",
+            "repo": "JblMaintenanceLogin",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enrich email template with delivery time and stock >6.7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-10T08:17:34Z",
+            "owner": "ukeszler",
+            "repo": "KeszlerDeliveryTimeInEmail",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Administration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shopware 6 Blog Plugin >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-08T09:35:27Z",
+            "owner": "Werkstattl",
+            "repo": "OpenBlogware",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Two Factor Auth 2FA >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-07T19:18:17Z",
+            "owner": "runelaenen",
+            "repo": "shopware6-two-factor-auth",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frosh Platform Share Basket >6.4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-25T08:03:45Z",
+            "owner": "FriendsOfShopware",
+            "repo": "FroshPlatformShareBasket",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Customer Experience"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Search Results Insights Plugin >6.6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-27T13:06:25Z",
+            "owner": "sidworks-dev",
+            "repo": "sw-plugin-search-results",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Tag Manager >6.7",
+          "description": "(Google Tag Manager integration for Shopware 6.7 with a complete GA4 Enhanced Ecommerce data layer and Google Consent Mode v2.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-06T15:11:19Z",
+            "owner": "svsw6",
+            "repo": "Shop4GoogleTagManager",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Marketing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CMS Scaffolding >6.x",
+          "description": "(Generate a CMS element or block scaffolding within seconds)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-03-06T13:55:33Z",
+            "owner": "Shape-and-Shift",
+            "repo": "shopware-cms-generator",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Shopware 6 Migration Assistant >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T08:08:46Z",
+            "owner": "shopware",
+            "repo": "SwagMigrationAssistant",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Shopware 6 Migration Assistant Magento Profile >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T13:24:36Z",
+            "owner": "shopware",
+            "repo": "SwagMigrationMagento",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theme Preview >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-06-07T12:18:52Z",
+            "owner": "hungmac-sw",
+            "repo": "MacThemePreview",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware 6 Additional Dev Tools >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-03-26T11:41:55Z",
+            "owner": "mmeester",
+            "repo": "shopware6-dev-tools",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Template inspector for Shopware 6",
+          "description": "(Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-09T07:19:16Z",
+            "owner": "sidworks-dev",
+            "repo": "sw-plugin-devtools",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composer file patcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-12T15:43:54Z",
+            "owner": "sidworks-dev",
+            "repo": "composer-patcher",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMS77.io Shopware 6 Plugin >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-26T13:15:54Z",
+            "owner": "seven-io",
+            "repo": "shopware6",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Developer Experience"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Image optimizer 6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-02T08:35:00Z",
+            "owner": "runelaenen",
+            "repo": "sw6-media-optimizer",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frosh ThumbnailProcessor >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-21T11:55:21Z",
+            "owner": "FriendsOfShopware",
+            "repo": "FroshPlatformThumbnailProcessor",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frosh HTML Minify >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-22T11:05:06Z",
+            "owner": "FriendsOfShopware",
+            "repo": "FroshPlatformHtmlMinify",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frosh Lazy Sizes >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2025-07-10T10:02:16Z",
+            "owner": "FriendsOfShopware",
+            "repo": "FroshLazySizes",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instant Page 6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-27T13:48:11Z",
+            "owner": "sidworks-dev",
+            "repo": "sw-plugin-instant-page",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Speed Optimizations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker Compose Development Environment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-27T14:25:11Z",
+            "owner": "JeroenBoersma",
+            "repo": "docker-compose-development",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dockware >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-13T10:41:45Z",
+            "owner": "dockware",
+            "repo": "dockware",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deploy with Bitbucket Pipelines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-14T14:57:40Z",
+            "owner": "sidworks-dev",
+            "repo": "sw-bitbucket-pipelines-deployer",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WbmTagManagerEcomm - GTM integration and dataLayer configuration >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-22T10:49:43Z",
+            "owner": "webmatch",
+            "repo": "WbmTagManagerEcomm",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dutch email templates >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Twig",
+            "last_commit": "2024-03-18T13:22:54Z",
+            "owner": "elgentos",
+            "repo": "shopware-dutch-email-templates",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaseLinker Integration by CREHLER >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-26T07:49:27Z",
+            "owner": "crehler",
+            "repo": "CrehlerBaseLinker",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Edrone CRM Integration by CREHLER >6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-11-25T10:07:10Z",
+            "owner": "crehler",
+            "repo": "CrehlerEdroneCRM",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware Database Synchronizer 6.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-29T19:06:22Z",
+            "owner": "sidworks-dev",
+            "repo": "sw-plugin-database-sync",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:43.812Z",
+    "original_repository": "sidworks-dev/awesome-shopware6",
+    "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
+    "enhanced_repository": "enhansome/enhansome-shopware6",
+    "enhanced_repository_description": null,
+    "title": "Awesome Shopware 6 with stars"
+  }
+}
