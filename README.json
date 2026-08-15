@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T13:12:13Z",
+            "last_commit": "2026-08-14T12:50:59Z",
             "owner": "buckaroo-it",
             "repo": "Shopware6",
             "stars": 3
@@ -833,7 +833,7 @@
             "last_commit": "2026-05-08T09:35:27Z",
             "owner": "Werkstattl",
             "repo": "OpenBlogware",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -926,7 +926,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T08:08:46Z",
+            "last_commit": "2026-08-14T13:24:30Z",
             "owner": "shopware",
             "repo": "SwagMigrationAssistant",
             "stars": 20
@@ -940,7 +940,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T13:24:36Z",
+            "last_commit": "2026-08-14T09:59:03Z",
             "owner": "shopware",
             "repo": "SwagMigrationMagento",
             "stars": 16
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:28:22.526Z",
+    "last_updated": "2026-08-15T04:24:08.810Z",
     "original_repository": "sidworks-dev/awesome-shopware6",
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
     "enhanced_repository": "enhansome/enhansome-shopware6",
