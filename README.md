@@ -15,14 +15,14 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Payment Service Providers
 
 * [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 2 | 🌐 PHP | 📅 2026-08-17
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-08-13
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 3 | 🌐 PHP | 📅 2026-08-19
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 9 | 🌐 PHP | 📅 2026-08-05
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-06-24
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-08-04
-* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-08-18
+* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-08-19
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 3 | 🌐 PHP | 📅 2026-08-18
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 3 | 🌐 PHP | 📅 2026-08-19
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -33,7 +33,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Frontend
 
-* [Product Compare >6.4](https://github.com/FriendsOfShopware/FroshProductCompare) ⭐ 41 | 🐛 12 | 🌐 Twig | 📅 2026-08-13
+* [Product Compare >6.4](https://github.com/FriendsOfShopware/FroshProductCompare) ⭐ 42 | 🐛 12 | 🌐 Twig | 📅 2026-08-13
 * [Recently Viewed Product Slider >6.3](https://github.com/vienthuong/RecentlyViewedProduct) ⭐ 40 | 🐛 6 | 🌐 PHP | 📅 2024-05-09
 * [Advanced Banners / Digital Publishing <6.4](https://github.com/runelaenen/shopware6-advanced-banners) ⚠️ Archived
 * [Shopware Maps >6.x](https://github.com/Shape-and-Shift/shopware-maps) ⭐ 27 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-03
@@ -119,7 +119,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Speed Optimizations
 
 * [Image optimizer 6.x](https://github.com/runelaenen/sw6-media-optimizer) ⭐ 31 | 🐛 4 | 🌐 PHP | 📅 2024-05-02
-* [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2025-12-21
+* [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2025-12-21
 * [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ⭐ 11 | 🐛 0 | 🌐 HTML | 📅 2026-06-22
 * [Frosh Lazy Sizes >6.x](https://github.com/FriendsOfShopware/FroshLazySizes) ⭐ 8 | 🐛 4 | 🌐 Twig | 📅 2025-07-10
 * [Instant Page 6.x](https://github.com/sidworks-dev/sw-plugin-instant-page) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-27
