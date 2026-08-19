@@ -100,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-05T14:58:47Z",
+            "last_commit": "2026-08-18T09:07:14Z",
             "owner": "paynl",
             "repo": "shopware6-plugin",
             "stars": 4
@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T13:24:26Z",
+            "last_commit": "2026-08-18T12:55:30Z",
             "owner": "buckaroo-it",
             "repo": "Shopware6",
             "stars": 3
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:30:12.610Z",
+    "last_updated": "2026-08-19T04:31:49.163Z",
     "original_repository": "sidworks-dev/awesome-shopware6",
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
     "enhanced_repository": "enhansome/enhansome-shopware6",
