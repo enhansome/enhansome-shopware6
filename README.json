@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 210370235,
                 "language": "PHP",
-                "last_commit": "2026-08-17T18:48:26Z",
+                "last_commit": "2026-08-19T13:58:48Z",
                 "owner": "mollie",
                 "repo": "Shopware6",
                 "stars": 67
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 252449274,
                 "language": "PHP",
-                "last_commit": "2026-08-19T11:20:27Z",
+                "last_commit": "2026-08-19T14:03:26Z",
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
                 "stars": 23
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:25.667Z",
+    "last_updated": "2026-08-20T04:31:42.275Z",
     "original_repository": "sidworks-dev/awesome-shopware6",
     "original_repository_id": 264260228,
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
