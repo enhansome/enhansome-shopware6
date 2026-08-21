@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 210370235,
                 "language": "PHP",
-                "last_commit": "2026-08-19T13:58:48Z",
+                "last_commit": "2026-08-20T12:49:32Z",
                 "owner": "mollie",
                 "repo": "Shopware6",
                 "stars": 67
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 188063471,
                 "language": "PHP",
-                "last_commit": "2026-08-05T11:24:44Z",
+                "last_commit": "2026-08-20T13:30:46Z",
                 "owner": "PAYONE-GmbH",
                 "repo": "shopware-6",
                 "stars": 21
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 252100326,
                 "language": "PHP",
-                "last_commit": "2026-08-04T08:43:52Z",
+                "last_commit": "2026-08-20T13:26:27Z",
                 "owner": "wallee-payment",
                 "repo": "shopware-6",
                 "stars": 6
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 253767821,
                 "language": "PHP",
-                "last_commit": "2026-08-19T09:37:42Z",
+                "last_commit": "2026-08-20T14:00:51Z",
                 "owner": "paynl",
                 "repo": "shopware6-plugin",
                 "stars": 4
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:31:42.275Z",
+    "last_updated": "2026-08-21T04:32:30.064Z",
     "original_repository": "sidworks-dev/awesome-shopware6",
     "original_repository_id": 264260228,
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
