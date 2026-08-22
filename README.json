@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 210370235,
                 "language": "PHP",
-                "last_commit": "2026-08-20T12:49:32Z",
+                "last_commit": "2026-08-21T16:51:04Z",
                 "owner": "mollie",
                 "repo": "Shopware6",
                 "stars": 67
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 253767821,
                 "language": "PHP",
-                "last_commit": "2026-08-20T14:00:51Z",
+                "last_commit": "2026-08-21T14:58:03Z",
                 "owner": "paynl",
                 "repo": "shopware6-plugin",
                 "stars": 4
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 241079501,
                 "language": "PHP",
-                "last_commit": "2026-08-19T09:23:10Z",
+                "last_commit": "2026-08-21T09:25:36Z",
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
                 "stars": 3
@@ -986,7 +986,7 @@
                 "archived": false,
                 "id": 187019019,
                 "language": "PHP",
-                "last_commit": "2026-08-17T08:38:24Z",
+                "last_commit": "2026-08-21T08:31:23Z",
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
                 "stars": 20
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:32:30.064Z",
+    "last_updated": "2026-08-22T04:27:15.095Z",
     "original_repository": "sidworks-dev/awesome-shopware6",
     "original_repository_id": 264260228,
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
