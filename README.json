@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 210370235,
                 "language": "PHP",
-                "last_commit": "2026-08-21T16:51:04Z",
+                "last_commit": "2026-08-24T12:19:20Z",
                 "owner": "mollie",
                 "repo": "Shopware6",
                 "stars": 67
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:39:26.125Z",
+    "last_updated": "2026-08-24T14:32:11.434Z",
     "original_repository": "sidworks-dev/awesome-shopware6",
     "original_repository_id": 264260228,
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
