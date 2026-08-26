@@ -20,9 +20,9 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-06-24
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 18 | 🌐 PHP | 📅 2026-08-20
-* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 7 | 🌐 PHP | 📅 2026-08-21
+* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 7 | 🌐 PHP | 📅 2026-08-25
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2026-08-24
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-08-25
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -78,7 +78,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Shopware orders scanner >6.3](https://github.com/nikolayk812/shopware-orders-scanner/) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2020-11-13
 * [Auto Meta Details >6.1](https://github.com/DevertNet/DevertAutoMetaDetails) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2021-03-01
 * [Show company name and VAT ID in backend >6.4](https://github.com/MelvinAchterhuis/MelvCustomerOverview) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-14
-* [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-06-11 (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
+* [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-06-11 (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
 * [Maintenance Log-In >6.5](https://github.com/Gainto/JblMaintenanceLogin) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2023-11-07
 * [Enrich email template with delivery time and stock >6.7](https://github.com/ukeszler/KeszlerDeliveryTimeInEmail) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2025-12-10
 
@@ -155,4 +155,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
