@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 210370235,
                 "language": "PHP",
-                "last_commit": "2026-08-25T14:03:23Z",
+                "last_commit": "2026-08-27T12:01:43Z",
                 "owner": "mollie",
                 "repo": "Shopware6",
                 "stars": 67
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 211879544,
                 "language": "PHP",
-                "last_commit": "2026-06-24T14:09:23Z",
+                "last_commit": "2026-08-27T10:49:23Z",
                 "owner": "MultiSafepay",
                 "repo": "shopware6",
                 "stars": 18
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 241079501,
                 "language": "PHP",
-                "last_commit": "2026-08-25T09:16:05Z",
+                "last_commit": "2026-08-26T14:59:57Z",
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
                 "stars": 3
@@ -1308,9 +1308,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:34:36.589Z",
-    "original_repository": "sidworks-dev/awesome-shopware6",
-    "original_repository_id": 264260228,
+    "last_updated": "2026-08-27T12:07:24.535Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 264260228,
+      "language": null,
+      "last_commit": "2026-07-03T12:01:12Z",
+      "owner": "sidworks-dev",
+      "repo": "awesome-shopware6",
+      "stars": 220
+    },
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
     "enhanced_repository": "enhansome/enhansome-shopware6",
     "enhanced_repository_description": null,
