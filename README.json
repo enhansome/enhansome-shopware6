@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mollie Payments Plugin for Shopware 6",
+                "homepage": "https://mollie.com",
                 "id": 210370235,
                 "language": "PHP",
-                "last_commit": "2026-08-28T09:54:52Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:20:47Z",
+                "open_issues": 1,
                 "owner": "mollie",
                 "repo": "Shopware6",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "mollie",
+                  "payments",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -28,12 +37,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adyen Payment plugin for Shopware 6",
+                "homepage": null,
                 "id": 252449274,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:48:45Z",
+                "open_issues": 0,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "adyen",
+                  "adyen-plugin",
+                  "payment",
+                  "payment-gateway",
+                  "payment-plugin",
+                  "payments",
+                  "php",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -44,12 +70,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAYONE Payment Plugin for Shopware 6",
+                "homepage": null,
                 "id": 188063471,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-20T13:30:46Z",
+                "open_issues": 7,
                 "owner": "PAYONE-GmbH",
                 "repo": "shopware-6",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "payment",
+                  "payment-gateway",
+                  "payment-processing",
+                  "payment-service",
+                  "payment-solution",
+                  "payone",
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -60,12 +101,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiSafepay plugin for Shopware 6",
+                "homepage": null,
                 "id": 211879544,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-27T10:49:23Z",
+                "open_issues": 1,
                 "owner": "MultiSafepay",
                 "repo": "shopware6",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "multisafepay",
+                  "payments",
+                  "shopware",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -76,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Show SEPA payment fields on checkout page",
+                "homepage": null,
                 "id": 578099637,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-15T11:26:35Z",
+                "open_issues": 2,
                 "owner": "steampixel",
                 "repo": "SteamPixelSepa",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -92,12 +148,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wallee integration for Shopware 6.5 and greater",
+                "homepage": null,
                 "id": 252100326,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T13:26:27Z",
+                "open_issues": 18,
                 "owner": "wallee-payment",
                 "repo": "shopware-6",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "payment-integration",
+                  "php",
+                  "php7",
+                  "php72",
+                  "shopware-plugin",
+                  "shopware6",
+                  "wallee"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -108,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin repository voor shopware 6",
+                "homepage": null,
                 "id": 253767821,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-25T13:18:19Z",
+                "open_issues": 7,
                 "owner": "paynl",
                 "repo": "shopware6-plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -124,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tpay Payment Service Provider Integration Plugin for Shopware 6",
+                "homepage": "https://store.shopware.com/en/tpay481263121184f/tpay.html",
                 "id": 453013307,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-12-08T08:24:07Z",
+                "open_issues": 0,
                 "owner": "crehler",
                 "repo": "CrehlerTpay",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -140,12 +219,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository containing the Shopware 6 Payment Plugin by Buckaroo",
+                "homepage": null,
                 "id": 241079501,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-26T14:59:57Z",
+                "open_issues": 0,
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "bancontact",
+                  "buckaroo",
+                  "creditcard",
+                  "ideal",
+                  "paymentmethods",
+                  "shopware",
+                  "shopware-payment",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -156,12 +250,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Burst payment integration for Shopware 6",
+                "homepage": "https://www.burst-coin.org",
                 "id": 231688710,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2020-12-14T08:43:19Z",
+                "open_issues": 17,
                 "owner": "felixbrucker",
                 "repo": "shopware-burst-payment",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "burst",
+                  "burst-coin",
+                  "burstcoin",
+                  "payment",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -179,12 +288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 Tailwindcss Theme",
+                "homepage": null,
                 "id": 319323067,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2022-02-10T16:05:18Z",
+                "open_issues": 1,
                 "owner": "flagbit",
                 "repo": "shopware6-tailwind-theme",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -195,12 +309,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 Theme",
+                "homepage": "https://www.digitalmanufaktur.com/shopware-6-theme-manu/",
                 "id": 310310748,
                 "language": "Twig",
+                "license": null,
                 "last_commit": "2023-02-10T16:27:38Z",
+                "open_issues": 9,
                 "owner": "digitalmanufaktur",
                 "repo": "shopware6-manu-theme",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "shopware",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -218,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This plugin allows your customers to compare products.",
+                "homepage": null,
                 "id": 276399974,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2026-08-13T10:31:47Z",
+                "open_issues": 12,
                 "owner": "FriendsOfShopware",
                 "repo": "FroshProductCompare",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -234,12 +361,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recently viewed products plugin for SW6",
+                "homepage": null,
                 "id": 295818409,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-05-09T09:14:17Z",
+                "open_issues": 6,
                 "owner": "vienthuong",
                 "repo": "RecentlyViewedProduct",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "recently-viewed-product",
+                  "recently-viewed-product-plugin",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware-plugins",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -250,12 +391,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Advanced Banners (Digital Publishing) for Shopware 6 💙",
+                "homepage": null,
                 "id": 297085169,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2023-09-04T09:32:42Z",
+                "open_issues": 5,
                 "owner": "runelaenen",
                 "repo": "shopware6-advanced-banners",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "banners",
+                  "digital-publishing",
+                  "hacktoberfest",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware-plugins",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -266,12 +422,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautifully simple map element for Shopware 6.",
+                "homepage": null,
                 "id": 248442777,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-03T14:35:30Z",
+                "open_issues": 6,
                 "owner": "Shape-and-Shift",
                 "repo": "shopware-maps",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "mapbox",
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware-plugins",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -282,12 +450,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use parent product canonical URL for SEO for product variants",
+                "homepage": null,
                 "id": 291478984,
                 "language": "Twig",
+                "license": null,
                 "last_commit": "2021-07-16T08:33:03Z",
+                "open_issues": 3,
                 "owner": "elgentos",
                 "repo": "shopware-seo-canonical-url",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -298,12 +474,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Restrict a category to login and/or restrict a category based on a customer group.",
+                "homepage": null,
                 "id": 367109179,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-07-12T15:40:50Z",
+                "open_issues": 3,
                 "owner": "Shape-and-Shift",
                 "repo": "shopware-login-required",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "category",
+                  "login",
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -314,12 +502,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shopware 6 extension for a dropdown menu from 992 pixels. ",
+                "homepage": "https://www.web-solutions-dresden.de/dropdown-menue",
                 "id": 312051694,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-21T12:04:23Z",
+                "open_issues": 0,
                 "owner": "sschreier",
                 "repo": "SschreierDropdownMenu",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "dropdown",
+                  "dropdown-menu",
+                  "dropdownmenu",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin",
+                  "sticky-menu",
+                  "sticky-navigation-bar"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -330,12 +534,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shopware 6 extension for tabs for the product detail page, which can be displayed before or after the reviews tab. ",
+                "homepage": "https://www.web-solutions-dresden.de/ein-tab-fuer-die-produkt-detailseite",
                 "id": 377223481,
                 "language": "Twig",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-11T06:02:06Z",
+                "open_issues": 0,
                 "owner": "sschreier",
                 "repo": "SschreierTabProductDetailPage",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin",
+                  "tab",
+                  "tabs"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -346,12 +563,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple integration of lazysizes into Shopware 6.",
+                "homepage": null,
                 "id": 242853913,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2022-10-14T08:00:30Z",
+                "open_issues": 0,
                 "owner": "stefanpoensgen",
                 "repo": "SptecLazyload",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -362,12 +588,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shopware 6 extension for badges for the navigation and the product detail page.",
+                "homepage": "https://www.web-solutions-dresden.de/ein-badge-fuer-die-kategorielisten-und-die-produkt-detailseite",
                 "id": 378378823,
                 "language": "Twig",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-11T06:16:30Z",
+                "open_issues": 0,
                 "owner": "sschreier",
                 "repo": "SschreierBadgeNavigationProductDetailPage",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "badge",
+                  "badges",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -378,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 386069503,
                 "language": "Twig",
+                "license": null,
                 "last_commit": "2024-01-11T19:18:11Z",
+                "open_issues": 0,
                 "owner": "MelvinAchterhuis",
                 "repo": "MelvDiscountSummary",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -394,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Shopware 6 plugin which enables you to use the AOS library for your Shopware CMS elements.",
+                "homepage": null,
                 "id": 248526899,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-03-19T14:43:35Z",
+                "open_issues": 0,
                 "owner": "Shape-and-Shift",
                 "repo": "shopware-aos",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -410,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Shopware 6 plugin to show tags within your detail product view",
+                "homepage": null,
                 "id": 248458097,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2020-03-19T09:14:10Z",
+                "open_issues": 1,
                 "owner": "Shape-and-Shift",
                 "repo": "shopware-tags",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -426,12 +680,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shopware 6 extension for a bar for information and notification texts or messages which can contain up to 4 areas.",
+                "homepage": "https://www.web-solutions-dresden.de/leiste-fuer-informations-und-hinweistexte-oder-meldungen",
                 "id": 310400996,
                 "language": "Twig",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-11T06:31:16Z",
+                "open_issues": 0,
                 "owner": "sschreier",
                 "repo": "SschreierTopbarNotifications",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "footer",
+                  "information",
+                  "notification",
+                  "notification-texts",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin",
+                  "texts",
+                  "topbar"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -442,12 +713,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shopware 6 extension for a sticky menu from 992 pixels.",
+                "homepage": "https://www.web-solutions-dresden.de/shopware-6-sticky-menue",
                 "id": 307780300,
                 "language": "Twig",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-11T07:01:16Z",
+                "open_issues": 0,
                 "owner": "sschreier",
                 "repo": "SschreierStickyMenu",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin",
+                  "sticky",
+                  "sticky-menu",
+                  "sticky-navigation-bar"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -458,12 +743,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This extension adds autocompletion functionality for customer addresses to your shop frontend (checkout and customer account) using the Deutsche Post Direkt Autocomplete API 2.0.",
+                "homepage": null,
                 "id": 259927064,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:58:58Z",
+                "open_issues": 4,
                 "owner": "netresearch",
                 "repo": "deutschepost-module-autocomplete-sw6",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "api-client",
+                  "deutsche-post",
+                  "gitlab-mirror",
+                  "shopware-plugin",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -474,12 +770,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 386069756,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-07-14T20:37:00Z",
+                "open_issues": 1,
                 "owner": "MelvinAchterhuis",
                 "repo": "MelvSoldOutVariants",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -490,12 +791,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 Plugin",
+                "homepage": null,
                 "id": 247136529,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-09-26T14:44:48Z",
+                "open_issues": 0,
                 "owner": "moori-net",
                 "repo": "MoorlCmsBrandSlider",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -506,12 +812,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Set the default sort order for category listings",
+                "homepage": null,
                 "id": 292296516,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-05-07T13:23:29Z",
+                "open_issues": 0,
                 "owner": "elgentos",
                 "repo": "shopware-default-sort-order",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -522,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A plugin to integrate twitter timelines etc. into your shopware 6 shop.",
+                "homepage": null,
                 "id": 251251188,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-01T16:15:24Z",
+                "open_issues": 0,
                 "owner": "flagbit",
                 "repo": "shopware6-twitter",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -538,12 +857,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "shopware 6 plugin to integrates Matomo  eCommerce tracking , supported by JavaScript and the Matomo Tag Manager.",
+                "homepage": null,
                 "id": 815082748,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2024-07-08T13:16:01Z",
+                "open_issues": 0,
                 "owner": "akshaynikhare",
                 "repo": "SloxMatomoEcomerce",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "shopware",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -554,12 +882,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 plugin for displaying social media icons in the footer",
+                "homepage": null,
                 "id": 244138239,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-07-04T15:29:16Z",
+                "open_issues": 0,
                 "owner": "sebastianvolk",
                 "repo": "shopware-social-media-icons",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6",
+                  "social-media"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -570,12 +908,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add flip/hover images to products for Shopware 6",
+                "homepage": "https://www.sidworks.nl",
                 "id": 1001538658,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-04-23T13:49:44Z",
+                "open_issues": 0,
                 "owner": "sidworks-dev",
                 "repo": "sw-plugin-product-flip-image",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -586,12 +932,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editable meta robots Plugin for Shopware 6",
+                "homepage": "https://store.shopware.com/en/crehl98470325264f/editable-meta-robots-by-crehler.html",
                 "id": 453013816,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2022-01-28T10:07:56Z",
+                "open_issues": 0,
                 "owner": "crehler",
                 "repo": "CrehlerMetaRobots",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ecommerce",
+                  "shopware"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -602,12 +956,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add multiple custom product labels to the storefront of Shopware 6",
+                "homepage": "https://www.sidworks.nl",
                 "id": 894432771,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-07-10T12:02:26Z",
+                "open_issues": 3,
                 "owner": "sidworks-dev",
                 "repo": "sw-plugin-product-labels",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -618,12 +980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shopware 6 plugin to add a VAT check based on VatLayer.",
+                "homepage": null,
                 "id": 369471598,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-08-06T11:30:23Z",
+                "open_issues": 0,
                 "owner": "Memo-ict",
                 "repo": "vatlayer-sw6",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -634,12 +1001,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "shopware 6 plugin to display additional currency in storefront",
+                "homepage": null,
                 "id": 815079614,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2024-07-08T13:15:50Z",
+                "open_issues": 0,
                 "owner": "akshaynikhare",
                 "repo": "SloxAdditionalCurrency",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "shopware",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -650,12 +1025,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1009650244,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2025-11-10T07:18:55Z",
+                "open_issues": 0,
                 "owner": "ukeszler",
                 "repo": "KeszlerDocumentTab",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -666,12 +1046,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 plugin for BerryPath guided selling flow widgets on category pages, product pages and CMS content.",
+                "homepage": "https://www.berrypath.eu",
                 "id": 1269061061,
                 "language": "Twig",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-22T11:58:05Z",
+                "open_issues": 0,
                 "owner": "BerryPath",
                 "repo": "shopware6-berrypath-flow",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "berrypath",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -682,12 +1071,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 plugin - Shopauskunft Widget integration",
+                "homepage": "https://mzmuda.de",
                 "id": 1001432272,
                 "language": "Twig",
+                "license": null,
                 "last_commit": "2025-06-24T04:11:04Z",
+                "open_issues": 0,
                 "owner": "matzmuda",
                 "repo": "shopware6-shopauskunft-widget",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ecommerce",
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -698,12 +1098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1091747671,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-28T06:25:44Z",
+                "open_issues": 1,
                 "owner": "ukeszler",
                 "repo": "KeszlerShippingContextPreset",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -721,12 +1126,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two Factor Authentication for Shopware 6 💙",
+                "homepage": null,
                 "id": 282620564,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-10-07T19:18:17Z",
+                "open_issues": 11,
                 "owner": "runelaenen",
                 "repo": "shopware6-two-factor-auth",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacktoberfest",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware-plugins",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -737,12 +1155,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "301/302 redirect management plugin for Shopware 6 💙",
+                "homepage": null,
                 "id": 345069666,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-10-20T08:38:10Z",
+                "open_issues": 3,
                 "owner": "runelaenen",
                 "repo": "sw6-redirects",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -753,12 +1182,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Shopware 6 Plugin that allows Administrators to filter Order listing be defined criteria",
+                "homepage": null,
                 "id": 294073873,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2021-08-14T16:10:31Z",
+                "open_issues": 0,
                 "owner": "leduc92",
                 "repo": "sbuorderadvancedfilter",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -769,12 +1207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 386395798,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-23T00:40:23Z",
+                "open_issues": 0,
                 "owner": "MelvinAchterhuis",
                 "repo": "MelvZeroMarginBlocks",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -785,12 +1228,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Shopware 6 Plugin that allows Administrators to impersonate other users",
+                "homepage": null,
                 "id": 286902462,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-15T07:41:55Z",
+                "open_issues": 2,
                 "owner": "vienthuong",
                 "repo": "impersonation",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "impersonate",
+                  "shopware",
+                  "shopware-6",
+                  "shopware-impersonation",
+                  "shopware-plugin",
+                  "shopware-plugins",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -801,12 +1258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds a Total Quantity In Cart Rule to the Rule Builder",
+                "homepage": null,
                 "id": 382287034,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-11-16T19:03:05Z",
+                "open_issues": 0,
                 "owner": "elgentos",
                 "repo": "shopware-total-qty-in-cart-rule",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -817,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6.5 extension which allows the admin to log-in as a customer",
+                "homepage": null,
                 "id": 710685915,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-10-28T00:34:21Z",
+                "open_issues": 1,
                 "owner": "Gainto",
                 "repo": "JblLoginAsCustomer",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -833,12 +1300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 305719054,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2020-11-13T18:38:21Z",
+                "open_issues": 0,
                 "owner": "nikolayk812",
                 "repo": "shopware-orders-scanner",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -849,12 +1321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 Plugin: Automatically generate SEO meta data for products and categories according to your own scheme. Language and sub-shop compatible. Increase the visibility of your online shop!",
+                "homepage": null,
                 "id": 253077747,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-03-01T09:32:43Z",
+                "open_issues": 1,
                 "owner": "DevertNet",
                 "repo": "DevertAutoMetaDetails",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -865,12 +1342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 384188784,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-07-14T10:30:11Z",
+                "open_issues": 1,
                 "owner": "MelvinAchterhuis",
                 "repo": "MelvCustomerOverview",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -881,12 +1363,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This Shopware 6 plugin adds an /abandoned-cart API endpoint that allows you to retrieve shopping carts that your customers have left behind.",
+                "homepage": null,
                 "id": 400166272,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-11T09:21:51Z",
+                "open_issues": 0,
                 "owner": "mailcampaigns",
                 "repo": "shopware-6-abandoned-cart-plugin",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -897,12 +1389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 715592847,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-11-07T13:08:09Z",
+                "open_issues": 0,
                 "owner": "Gainto",
                 "repo": "JblMaintenanceLogin",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -913,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1113581792,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-12-10T08:17:34Z",
+                "open_issues": 0,
                 "owner": "ukeszler",
                 "repo": "KeszlerDeliveryTimeInEmail",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -936,12 +1438,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 plugin that adds a blog functionality",
+                "homepage": null,
                 "id": 763470071,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-08T09:35:27Z",
+                "open_issues": 2,
                 "owner": "Werkstattl",
                 "repo": "OpenBlogware",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "blog",
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -952,12 +1465,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two Factor Authentication for Shopware 6 💙",
+                "homepage": null,
                 "id": 282620564,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-10-07T19:18:17Z",
+                "open_issues": 11,
                 "owner": "runelaenen",
                 "repo": "shopware6-two-factor-auth",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacktoberfest",
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware-plugins",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -968,12 +1494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This plugin allows your customers to save the current basket and share it via link.",
+                "homepage": null,
                 "id": 218282291,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-03-25T08:03:45Z",
+                "open_issues": 9,
                 "owner": "FriendsOfShopware",
                 "repo": "FroshPlatformShareBasket",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -991,12 +1522,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds list with search results to the administration of Shopware 6 to analyze for marketing purposes",
+                "homepage": "https://www.sidworks.nl",
                 "id": 986841788,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-11-27T13:06:25Z",
+                "open_issues": 0,
                 "owner": "sidworks-dev",
                 "repo": "sw-plugin-search-results",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1007,12 +1546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1288119700,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-06T15:11:19Z",
+                "open_issues": 0,
                 "owner": "svsw6",
                 "repo": "Shop4GoogleTagManager",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -1030,12 +1574,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a CMS element scaffolding within seconds.",
+                "homepage": null,
                 "id": 380224501,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-03-06T13:55:33Z",
+                "open_issues": 1,
                 "owner": "Shape-and-Shift",
                 "repo": "shopware-cms-generator",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1046,12 +1600,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for migrating data to Shopware 6.",
+                "homepage": null,
                 "id": 187019019,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-24T15:25:46Z",
+                "open_issues": 1,
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "migration",
+                  "plugin",
+                  "shopware"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1062,12 +1625,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magento 1 & 2 profiles for Shopware Migration Assistant.",
+                "homepage": null,
                 "id": 220940814,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:59:03Z",
+                "open_issues": 0,
                 "owner": "shopware",
                 "repo": "SwagMigrationMagento",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "magento",
+                  "migration",
+                  "plugin",
+                  "shopware"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1078,12 +1651,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Theme preview for shopware 6",
+                "homepage": null,
                 "id": 260168708,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2020-06-07T12:18:52Z",
+                "open_issues": 0,
                 "owner": "hungmac-sw",
                 "repo": "MacThemePreview",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "shopware-theme",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1094,12 +1676,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Additional tools to support your Shopware 6 development",
+                "homepage": null,
                 "id": 234279089,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2020-03-26T11:41:55Z",
+                "open_issues": 6,
                 "owner": "mmeester",
                 "repo": "shopware6-dev-tools",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "developer-tools",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1110,12 +1701,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template inspector and optimized Storefront watcher for Shopware 6. Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.",
+                "homepage": "https://www.sidworks.nl/",
                 "id": 1098479026,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-09T07:19:16Z",
+                "open_issues": 0,
                 "owner": "sidworks-dev",
                 "repo": "sw-plugin-devtools",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1126,12 +1725,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composer plugin to automatically apply patches to vendor packages, no forking required. Supports dev-only patches and interactive patch creation.",
+                "homepage": "https://www.sidworks.nl",
                 "id": 1114519454,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-12-12T15:43:54Z",
+                "open_issues": 0,
                 "owner": "sidworks-dev",
                 "repo": "composer-patcher",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "composer",
+                  "composer-patch",
+                  "composer-plugin",
+                  "git-patch",
+                  "patch",
+                  "patching",
+                  "php",
+                  "vendor-patches"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1142,12 +1755,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Shopware 6 plugin for the seven.io SMS gateway.",
+                "homepage": "https://www.seven.io/en/solutions/integrations/shopware-6/",
                 "id": 241588264,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-26T13:15:54Z",
+                "open_issues": 5,
                 "owner": "seven-io",
                 "repo": "shopware6",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "e-commerce",
+                  "seven-plugin",
+                  "shopware6",
+                  "shopware6-plugin",
+                  "sms"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -1165,12 +1789,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image Optimizer for Shopware 6 💙 ",
+                "homepage": null,
                 "id": 322353528,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-05-02T08:35:00Z",
+                "open_issues": 4,
                 "owner": "runelaenen",
                 "repo": "sw6-media-optimizer",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "shopware",
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware-plugins",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1181,12 +1817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This shopware6 plugin allows you to use variable thumbnails - on the fly.",
+                "homepage": null,
                 "id": 229497393,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-12-21T11:55:21Z",
+                "open_issues": 0,
                 "owner": "FriendsOfShopware",
                 "repo": "FroshPlatformThumbnailProcessor",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1197,12 +1838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This plugin allows you to minify your HTML output.",
+                "homepage": null,
                 "id": 352562203,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-22T11:05:06Z",
+                "open_issues": 0,
                 "owner": "FriendsOfShopware",
                 "repo": "FroshPlatformHtmlMinify",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1213,12 +1859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This plugin allows you to use lazy loading for your images.",
+                "homepage": null,
                 "id": 578541172,
                 "language": "Twig",
+                "license": "MIT",
                 "last_commit": "2025-07-10T10:02:16Z",
+                "open_issues": 4,
                 "owner": "FriendsOfShopware",
                 "repo": "FroshLazySizes",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1229,12 +1880,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds InstantPage to the storefront of Shopware 6",
+                "homepage": "https://www.sidworks.nl",
                 "id": 894437169,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-11-27T13:48:11Z",
+                "open_issues": 0,
                 "owner": "sidworks-dev",
                 "repo": "sw-plugin-instant-page",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -1252,12 +1911,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clone and `bin/dev up`.  Quickly start of developing locally with Nginx, PHP, Blackfire, Percona, Mailhog and Redis. Out of the box support for Magento2 Developer Box",
+                "homepage": null,
                 "id": 38358817,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-11-27T14:25:11Z",
+                "open_issues": 16,
                 "owner": "JeroenBoersma",
                 "repo": "docker-compose-development",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "development",
+                  "docker",
+                  "docker-compose",
+                  "docker-magento",
+                  "docker-magento2",
+                  "local-development",
+                  "magento",
+                  "magento-developer-box",
+                  "magento2",
+                  "mysql",
+                  "php",
+                  "php56",
+                  "php70",
+                  "php71",
+                  "php72"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1268,12 +1948,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker",
+                "homepage": "https://dockware.io",
                 "id": 273463196,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-13T10:41:45Z",
+                "open_issues": 92,
                 "owner": "dockware",
                 "repo": "dockware",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "developer-tools",
+                  "devops",
+                  "docker",
+                  "shopware"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1284,12 +1974,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deployer + Bitbucket pipelines for Shopware 6",
+                "homepage": "https://www.sidworks.nl",
                 "id": 966193107,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-04-14T14:57:40Z",
+                "open_issues": 0,
                 "owner": "sidworks-dev",
                 "repo": "sw-bitbucket-pipelines-deployer",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "deployer",
+                  "devops",
+                  "pipelines",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -1307,12 +2007,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 Plugin for Google Tag Manager integration and dataLayer configuration",
+                "homepage": null,
                 "id": 275121045,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-05-22T10:49:43Z",
+                "open_issues": 13,
                 "owner": "webmatch",
                 "repo": "WbmTagManagerEcomm",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "data-layer",
+                  "datalayer-configuration",
+                  "google-tag-manager",
+                  "gtm",
+                  "shopware-plugin",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1323,12 +2035,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dutch email templates for Shopware 6",
+                "homepage": null,
                 "id": 344154566,
                 "language": "Twig",
+                "license": null,
                 "last_commit": "2024-03-18T13:22:54Z",
+                "open_issues": 0,
                 "owner": "elgentos",
                 "repo": "shopware-dutch-email-templates",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1339,12 +2058,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BaseLinker Integration Plugin for Shopware 6",
+                "homepage": "https://store.shopware.com/en/crehl97816915330f/baselinker-integration.html",
                 "id": 450453814,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-04-26T07:49:27Z",
+                "open_issues": 2,
                 "owner": "crehler",
                 "repo": "CrehlerBaseLinker",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "baselinker",
+                  "ecommerce",
+                  "shopware",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1355,12 +2084,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edrone CRM Integration Plugin for Shopware 6",
+                "homepage": "https://store.shopware.com/en/crehl96018484596f/edrone-crm.html",
                 "id": 453013513,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-11-25T10:07:10Z",
+                "open_issues": 0,
                 "owner": "crehler",
                 "repo": "CrehlerEdroneCRM",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ecommerce",
+                  "shopware",
+                  "shopware6"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1371,12 +2109,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 plugin to sync databases from staging/production to local via SSH",
+                "homepage": "https://www.sidworks.nl",
                 "id": 1144039409,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-05-29T19:06:22Z",
+                "open_issues": 0,
                 "owner": "sidworks-dev",
                 "repo": "sw-plugin-database-sync",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             }
@@ -1390,15 +2136,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:51:51.618Z",
+    "last_updated": "2026-08-29T04:49:19.555Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Shopware 6 plugins, resources, themes, etc",
+      "homepage": "https://www.berrypath.eu",
       "id": 264260228,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-03T12:01:12Z",
+      "open_issues": 0,
       "owner": "sidworks-dev",
       "repo": "awesome-shopware6",
-      "stars": 220
+      "stars": 220,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "shopware",
+        "shopware-platform",
+        "shopware-platform-plugin",
+        "shopware-plugin",
+        "shopware-plugins",
+        "shopware6"
+      ]
     },
     "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
     "enhanced_repository": "enhansome/enhansome-shopware6",
