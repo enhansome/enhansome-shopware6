@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-01
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-02
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-01
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 7 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -22,7 +22,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 18 | 🌐 PHP | 📅 2026-08-20
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 7 | 🌐 PHP | 📅 2026-08-25
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-09-01
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2026-09-02
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -34,7 +34,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Frontend
 
 * [Product Compare >6.4](https://github.com/FriendsOfShopware/FroshProductCompare) ⭐ 42 | 🐛 12 | 🌐 Twig | 📅 2026-08-13
-* [Recently Viewed Product Slider >6.3](https://github.com/vienthuong/RecentlyViewedProduct) ⭐ 40 | 🐛 6 | 🌐 PHP | 📅 2024-05-09
+* [Recently Viewed Product Slider >6.3](https://github.com/vienthuong/RecentlyViewedProduct) ⭐ 40 | 🐛 7 | 🌐 PHP | 📅 2024-05-09
 * [Advanced Banners / Digital Publishing <6.4](https://github.com/runelaenen/shopware6-advanced-banners) ⚠️ Archived
 * [Shopware Maps >6.x](https://github.com/Shape-and-Shift/shopware-maps) ⭐ 27 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-03
 * [Elgentos - Seo Canonical URL >6.x](https://github.com/elgentos/shopware-seo-canonical-url) ⭐ 18 | 🐛 3 | 🌐 Twig | 📅 2021-07-16
@@ -155,4 +155,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
