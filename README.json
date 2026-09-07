@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-06T02:35:44Z",
+                "last_commit": "2026-09-07T07:55:31Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -42,7 +42,7 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:59:35Z",
+                "last_commit": "2026-09-07T08:10:42Z",
                 "open_issues": 0,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
@@ -1447,7 +1447,7 @@
                 "open_issues": 2,
                 "owner": "Werkstattl",
                 "repo": "OpenBlogware",
-                "stars": 44,
+                "stars": 43,
                 "topics": [
                   "blog",
                   "shopware",
@@ -1583,7 +1583,7 @@
                 "open_issues": 1,
                 "owner": "Shape-and-Shift",
                 "repo": "shopware-cms-generator",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "shopware",
                   "shopware-plugin",
@@ -2136,7 +2136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:18:18.303Z",
+    "last_updated": "2026-09-07T08:51:12.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
