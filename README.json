@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-08T08:22:57Z",
+                "last_commit": "2026-09-09T06:03:27Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -42,8 +42,8 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-07T08:10:42Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-09T08:24:03Z",
+                "open_issues": 3,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
                 "stars": 23,
@@ -1066,6 +1066,30 @@
             },
             {
               "node_type": "item",
+              "title": "Product Filter Count > 6.6",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Add dynamic product counts to storefront filters in Shopware 6",
+                "homepage": "https://www.sidworks.nl",
+                "id": 1361124542,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-09-08T09:07:29Z",
+                "open_issues": 0,
+                "owner": "sidworks-dev",
+                "repo": "sw-plugin-filter-counts",
+                "stars": 1,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
+              },
+              "first_seen": "2026-09-09T08:33:31.062Z"
+            },
+            {
+              "node_type": "item",
               "title": "Shopauskunft Integration > 6.x",
               "description": null,
               "children": [],
@@ -1605,8 +1629,8 @@
                 "id": 187019019,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-08T08:02:06Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-09T07:10:57Z",
+                "open_issues": 1,
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
                 "stars": 20,
@@ -2136,15 +2160,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:31:26.209Z",
+    "last_updated": "2026-09-09T08:33:31.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
-      "homepage": "https://www.berrypath.eu",
+      "homepage": "https://www.sidworks.nl",
       "id": 264260228,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-03T12:01:12Z",
+      "last_commit": "2026-09-08T09:10:27Z",
       "open_issues": 0,
       "owner": "sidworks-dev",
       "repo": "awesome-shopware6",
@@ -2160,7 +2184,7 @@
         "shopware6"
       ]
     },
-    "original_repository_sha": "2e7ecdac895561008d5ccf907fc78e41b647375d",
+    "original_repository_sha": "3833af97c59d06e4773db5b9fa45f7334ede1c91",
     "enhanced_repository": "enhansome/enhansome-shopware6",
     "enhanced_repository_description": null,
     "title": "Awesome Shopware 6 with stars"

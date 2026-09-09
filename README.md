@@ -14,8 +14,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-08
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-07
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-09
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 3 | 🌐 PHP | 📅 2026-09-09
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 8 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
@@ -62,6 +62,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2024-07-08
 * [Show documents in separate tab >6.6](https://github.com/ukeszler/KeszlerDocumentTab) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2025-11-10
 * [BerryPath Guided Selling Flow Widget >6.6](https://github.com/BerryPath/shopware6-berrypath-flow) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2026-07-22
+* [Product Filter Count > 6.6](https://github.com/sidworks-dev/sw-plugin-filter-counts) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-08
 * [Shopauskunft Integration > 6.x](https://github.com/matzmuda/shopware6-shopauskunft-widget) ⭐ 0 | 🐛 0 | 🌐 Twig | 📅 2025-06-24
 * [Storefront (and product feed) shipping cost calculator >6.7](https://github.com/ukeszler/KeszlerShippingContextPreset) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-07-28
 * [CMS Elements >6.x](https://github.com/SilvioPahrig/SndCmsExtensions)
@@ -96,7 +97,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Developer Experience
 
 * [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-03-06 (Generate a CMS element or block scaffolding within seconds)
-* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-09-08
+* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 1 | 🌐 PHP | 📅 2026-09-09
 * [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-08-14
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
@@ -155,4 +156,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
