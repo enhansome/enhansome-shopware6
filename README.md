@@ -14,12 +14,12 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-11
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-12
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-10
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 8 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
-* [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-10
+* [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 7 | 🌐 PHP | 📅 2026-09-03
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
 * [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 5 | 🌐 PHP | 📅 2026-09-10
@@ -121,7 +121,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 * [Image optimizer 6.x](https://github.com/runelaenen/sw6-media-optimizer) ⭐ 31 | 🐛 4 | 🌐 PHP | 📅 2024-05-02
 * [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2025-12-21
-* [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ⭐ 11 | 🐛 0 | 🌐 HTML | 📅 2026-06-22
+* [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ⭐ 11 | 🐛 1 | 🌐 HTML | 📅 2026-06-22
 * [Frosh Lazy Sizes >6.x](https://github.com/FriendsOfShopware/FroshLazySizes) ⭐ 8 | 🐛 4 | 🌐 Twig | 📅 2025-07-10
 * [Instant Page 6.x](https://github.com/sidworks-dev/sw-plugin-instant-page) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-27
 
@@ -156,4 +156,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
