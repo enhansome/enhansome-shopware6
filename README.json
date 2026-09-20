@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-19T02:20:31Z",
+                "last_commit": "2026-09-20T02:33:11Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -1575,7 +1575,7 @@
                 "id": 1288119700,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-07-06T15:11:19Z",
+                "last_commit": "2026-09-19T20:10:23Z",
                 "open_issues": 0,
                 "owner": "svsw6",
                 "repo": "Shop4GoogleTagManager",
@@ -2160,7 +2160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:28:09.245Z",
+    "last_updated": "2026-09-20T08:59:27.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",

@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-19
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-20
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-17
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 9 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -92,7 +92,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Marketing
 
 * [Search Results Insights Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-search-results) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-11-27
-* [Google Tag Manager >6.7](https://github.com/svsw6/Shop4GoogleTagManager) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-07-06 (Google Tag Manager integration for Shopware 6.7 with a complete GA4 Enhanced Ecommerce data layer and Google Consent Mode v2.)
+* [Google Tag Manager >6.7](https://github.com/svsw6/Shop4GoogleTagManager) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-09-19 (Google Tag Manager integration for Shopware 6.7 with a complete GA4 Enhanced Ecommerce data layer and Google Consent Mode v2.)
 
 ### Developer Experience
 
@@ -156,4 +156,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
