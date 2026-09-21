@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-20T02:33:11Z",
+                "last_commit": "2026-09-21T08:53:07Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -42,7 +42,7 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-17T19:43:44Z",
+                "last_commit": "2026-09-21T09:17:42Z",
                 "open_issues": 0,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
@@ -224,7 +224,7 @@
                 "id": 241079501,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-09-17T12:55:33Z",
+                "last_commit": "2026-09-21T09:24:57Z",
                 "open_issues": 5,
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
@@ -2160,7 +2160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:59:27.791Z",
+    "last_updated": "2026-09-21T09:31:53.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
