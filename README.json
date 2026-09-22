@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-21T08:53:07Z",
+                "last_commit": "2026-09-22T02:32:20Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -42,7 +42,7 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-21T09:17:42Z",
+                "last_commit": "2026-09-21T10:31:19Z",
                 "open_issues": 0,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
@@ -224,8 +224,8 @@
                 "id": 241079501,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-09-21T09:24:57Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-22T08:25:56Z",
+                "open_issues": 4,
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
                 "stars": 3,
@@ -1090,6 +1090,33 @@
             },
             {
               "node_type": "item",
+              "title": "Hide prices & lock cart for guests or customer groups >6.7",
+              "description": "(Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Shopware 6 plugin that provides advanced price visibility control and cart access management. Hide prices and restrict cart access for non-logged-in users or specific customer groups.",
+                "homepage": "https://actualize.de",
+                "id": 1015567393,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-09-17T21:49:59Z",
+                "open_issues": 0,
+                "owner": "actualizer",
+                "repo": "ActPriceHide",
+                "stars": 1,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin",
+                  "shopware6-plugins",
+                  "sw6",
+                  "sw6-plugin"
+                ]
+              },
+              "first_seen": "2026-09-22T08:58:05.191Z"
+            },
+            {
+              "node_type": "item",
               "title": "Shopauskunft Integration > 6.x",
               "description": null,
               "children": [],
@@ -1135,6 +1162,60 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Free shipping progress bar >6.7",
+              "description": "(Offcanvas cart and checkout; the threshold is read automatically from the shipping method's price configuration.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Shopware 6 plugin that displays a free shipping progress bar in the offcanvas cart and checkout summary, showing customers how much more they need to spend to qualify for free shipping.",
+                "homepage": "https://actualize.de",
+                "id": 1167716764,
+                "language": "Twig",
+                "license": "MIT",
+                "last_commit": "2026-09-17T21:49:54Z",
+                "open_issues": 0,
+                "owner": "actualizer",
+                "repo": "ActFreeShippingBar",
+                "stars": 0,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin",
+                  "shopware6-plugins",
+                  "sw6",
+                  "sw6-plugin"
+                ]
+              },
+              "first_seen": "2026-09-22T08:58:05.191Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Scheduled information bars >6.7",
+              "description": "(Multiple bars per sales channel, each with its own schedule; texts per sales channel and language, rotating messages, optional CTA button.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Shopware 6 plugin that displays a customizable, time-controlled information bar at the top of your storefront with dynamic messaging capabilities.",
+                "homepage": "https://actualize.de",
+                "id": 949039093,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-09-17T19:49:00Z",
+                "open_issues": 0,
+                "owner": "actualizer",
+                "repo": "ActInformationBar",
+                "stars": 0,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin",
+                  "shopware6-plugins",
+                  "sw6",
+                  "sw6-plugin"
+                ]
+              },
+              "first_seen": "2026-09-22T08:58:05.191Z"
             }
           ],
           "description": null,
@@ -1531,6 +1612,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Passkey / WebAuthn login >6.7",
+              "description": "(Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Shopware 6 plugin that adds Passkey / WebAuthn login for both the storefront and the administration.",
+                "homepage": "https://actualize.de",
+                "id": 1306637150,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-09-17T19:37:22Z",
+                "open_issues": 0,
+                "owner": "actualizer",
+                "repo": "ActPasskey",
+                "stars": 0,
+                "topics": [
+                  "passkey",
+                  "passkey-authentication",
+                  "shopware6",
+                  "shopware6-plugin",
+                  "shopware6-plugins",
+                  "sw6",
+                  "sw6-plugin"
+                ]
+              },
+              "first_seen": "2026-09-22T08:58:05.191Z"
             }
           ],
           "description": null,
@@ -1575,7 +1685,7 @@
                 "id": 1288119700,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-19T20:10:23Z",
+                "last_commit": "2026-09-21T18:17:09Z",
                 "open_issues": 0,
                 "owner": "svsw6",
                 "repo": "Shop4GoogleTagManager",
@@ -1629,7 +1739,7 @@
                 "id": 187019019,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-17T11:07:13Z",
+                "last_commit": "2026-09-22T07:25:36Z",
                 "open_issues": 2,
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
@@ -2160,7 +2270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:31:53.597Z",
+    "last_updated": "2026-09-22T08:58:05.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
@@ -2168,11 +2278,11 @@
       "id": 264260228,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-08T09:10:27Z",
+      "last_commit": "2026-09-22T08:08:48Z",
       "open_issues": 0,
       "owner": "sidworks-dev",
       "repo": "awesome-shopware6",
-      "stars": 217,
+      "stars": 218,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2184,7 +2294,7 @@
         "shopware6"
       ]
     },
-    "original_repository_sha": "3833af97c59d06e4773db5b9fa45f7334ede1c91",
+    "original_repository_sha": "5e1b7e3eb2c7c05d03aec86d41535682fa30fe69",
     "enhanced_repository": "enhansome/enhansome-shopware6",
     "enhanced_repository_description": null,
     "title": "Awesome Shopware 6 with stars"

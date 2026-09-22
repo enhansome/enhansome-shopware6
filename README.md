@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-21
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-22
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-21
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 9 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -22,7 +22,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-09-18
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 5 | 🌐 PHP | 📅 2026-09-21
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2026-09-22
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -63,8 +63,11 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Show documents in separate tab >6.6](https://github.com/ukeszler/KeszlerDocumentTab) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2025-11-10
 * [BerryPath Guided Selling Flow Widget >6.6](https://github.com/BerryPath/shopware6-berrypath-flow) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2026-07-22
 * [Product Filter Count > 6.6](https://github.com/sidworks-dev/sw-plugin-filter-counts) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
+* [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
 * [Shopauskunft Integration > 6.x](https://github.com/matzmuda/shopware6-shopauskunft-widget) ⭐ 0 | 🐛 0 | 🌐 Twig | 📅 2025-06-24
 * [Storefront (and product feed) shipping cost calculator >6.7](https://github.com/ukeszler/KeszlerShippingContextPreset) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-07-28
+* [Free shipping progress bar >6.7](https://github.com/actualizer/ActFreeShippingBar) ⭐ 0 | 🐛 0 | 🌐 Twig | 📅 2026-09-17 (Offcanvas cart and checkout; the threshold is read automatically from the shipping method's price configuration.)
+* [Scheduled information bars >6.7](https://github.com/actualizer/ActInformationBar) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 (Multiple bars per sales channel, each with its own schedule; texts per sales channel and language, rotating messages, optional CTA button.)
 * [CMS Elements >6.x](https://github.com/SilvioPahrig/SndCmsExtensions)
 
 ### Administration
@@ -88,16 +91,17 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 43 | 🐛 4 | 🌐 PHP | 📅 2026-09-07
 * [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 43 | 🐛 11 | 🌐 PHP | 📅 2025-10-07
 * [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ⭐ 20 | 🐛 9 | 🌐 PHP | 📅 2026-03-25
+* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
 
 ### Marketing
 
 * [Search Results Insights Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-search-results) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-11-27
-* [Google Tag Manager >6.7](https://github.com/svsw6/Shop4GoogleTagManager) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-09-19 (Google Tag Manager integration for Shopware 6.7 with a complete GA4 Enhanced Ecommerce data layer and Google Consent Mode v2.)
+* [Google Tag Manager >6.7](https://github.com/svsw6/Shop4GoogleTagManager) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-09-21 (Google Tag Manager integration for Shopware 6.7 with a complete GA4 Enhanced Ecommerce data layer and Google Consent Mode v2.)
 
 ### Developer Experience
 
 * [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-03-06 (Generate a CMS element or block scaffolding within seconds)
-* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-09-17
+* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-09-22
 * [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-09-18
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
@@ -156,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
