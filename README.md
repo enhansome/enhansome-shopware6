@@ -14,15 +14,15 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-23
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-21
-* [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 9 | 🌐 PHP | 📅 2026-08-20
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-24
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-23
+* [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 10 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-09-18
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-09-22
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-09-23
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -48,7 +48,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2020-03-19
 * [Topbar or Footer Notifications >6.x](https://github.com/sschreier/sschreierTopbarnotifications) ⭐ 9 | 🐛 0 | 🌐 Twig | 📅 2025-10-11
 * [Sticky Menu >6.x](https://github.com/sschreier/sschreierStickymenu) ⭐ 9 | 🐛 0 | 🌐 Twig | 📅 2025-10-11
-* [Deutsche Post Autocomplete >6.5](https://github.com/netresearch/deutschepost-module-autocomplete-sw6) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-08-02
+* [Deutsche Post Autocomplete >6.5](https://github.com/netresearch/deutschepost-module-autocomplete-sw6) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-09-23
 * [Show sold out information for variants >6.4](https://github.com/MelvinAchterhuis/MelvSoldOutVariants) ⚠️ Archived
 * [Brand Slider](https://github.com/moorl/plugin-MoorlCmsBrandSlider) ⭐ 6 | 🐛 0 | 🌐 PHP | 📅 2025-09-26
 * [Elgentos - Default Sort Order >6.x](https://github.com/elgentos/shopware-default-sort-order) ⚠️ Archived
@@ -160,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
