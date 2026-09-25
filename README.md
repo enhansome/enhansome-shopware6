@@ -14,9 +14,9 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-24
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-25
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-23
-* [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 10 | 🌐 PHP | 📅 2026-08-20
+* [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
@@ -67,7 +67,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Shopauskunft Integration > 6.x](https://github.com/matzmuda/shopware6-shopauskunft-widget) ⭐ 0 | 🐛 0 | 🌐 Twig | 📅 2025-06-24
 * [Storefront (and product feed) shipping cost calculator >6.7](https://github.com/ukeszler/KeszlerShippingContextPreset) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-07-28
 * [Free shipping progress bar >6.7](https://github.com/actualizer/ActFreeShippingBar) ⭐ 0 | 🐛 0 | 🌐 Twig | 📅 2026-09-17 (Offcanvas cart and checkout; the threshold is read automatically from the shipping method's price configuration.)
-* [Scheduled information bars >6.7](https://github.com/actualizer/ActInformationBar) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 (Multiple bars per sales channel, each with its own schedule; texts per sales channel and language, rotating messages, optional CTA button.)
+* [Scheduled information bars >6.7](https://github.com/actualizer/ActInformationBar) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-24 (Multiple bars per sales channel, each with its own schedule; texts per sales channel and language, rotating messages, optional CTA button.)
 * [CMS Elements >6.x](https://github.com/SilvioPahrig/SndCmsExtensions)
 
 ### Administration
@@ -88,10 +88,10 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Customer Experience
 
-* [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 43 | 🐛 4 | 🌐 PHP | 📅 2026-09-07
+* [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 43 | 🐛 6 | 🌐 PHP | 📅 2026-09-07
 * [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 43 | 🐛 11 | 🌐 PHP | 📅 2025-10-07
 * [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ⭐ 20 | 🐛 9 | 🌐 PHP | 📅 2026-03-25
-* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
+* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-24 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
 
 ### Marketing
 
@@ -102,7 +102,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 * [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-03-06 (Generate a CMS element or block scaffolding within seconds)
 * [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-09-22
-* [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-09-18
+* [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-09-25
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
 * [Template inspector for Shopware 6](https://github.com/sidworks-dev/sw-plugin-devtools) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-09 (Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)
@@ -160,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
