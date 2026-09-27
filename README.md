@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-26
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-09-27
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-25
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -91,7 +91,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 43 | 🐛 6 | 🌐 PHP | 📅 2026-09-07
 * [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 43 | 🐛 11 | 🌐 PHP | 📅 2025-10-07
 * [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ⭐ 20 | 🐛 9 | 🌐 PHP | 📅 2026-03-25
-* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-25 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
+* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-27 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
 
 ### Marketing
 
@@ -160,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
