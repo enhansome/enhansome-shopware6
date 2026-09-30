@@ -14,15 +14,15 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 3 | 🌐 PHP | 📅 2026-09-29
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-28
-* [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-08-20
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 3 | 🌐 PHP | 📅 2026-09-30
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-30
+* [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 12 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-09-18
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-09-29
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-09-29
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -58,12 +58,12 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Product Flip/Hover Images >6.6](https://github.com/sidworks-dev/sw-plugin-product-flip-image) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-04-23
 * [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2022-01-28
 * [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels) ⭐ 2 | 🐛 3 | 🌐 PHP | 📅 2026-07-10
+* [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-09-29 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
 * [VatLayer VAT check >6.x](https://github.com/Memo-ict/vatlayer-sw6) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2021-08-06
 * [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2024-07-08
 * [Show documents in separate tab >6.6](https://github.com/ukeszler/KeszlerDocumentTab) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2025-11-10
 * [BerryPath Guided Selling Flow Widget >6.6](https://github.com/BerryPath/shopware6-berrypath-flow) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2026-07-22
 * [Product Filter Count > 6.6](https://github.com/sidworks-dev/sw-plugin-filter-counts) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
-* [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
 * [Shopauskunft Integration > 6.x](https://github.com/matzmuda/shopware6-shopauskunft-widget) ⭐ 0 | 🐛 0 | 🌐 Twig | 📅 2025-06-24
 * [Storefront (and product feed) shipping cost calculator >6.7](https://github.com/ukeszler/KeszlerShippingContextPreset) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-07-28
 * [Free shipping progress bar >6.7](https://github.com/actualizer/ActFreeShippingBar) ⭐ 0 | 🐛 0 | 🌐 Twig | 📅 2026-09-17 (Offcanvas cart and checkout; the threshold is read automatically from the shipping method's price configuration.)
@@ -101,7 +101,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Developer Experience
 
 * [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-03-06 (Generate a CMS element or block scaffolding within seconds)
-* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-09-29
+* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-09-30
 * [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-09-25
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
@@ -126,7 +126,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Image optimizer 6.x](https://github.com/runelaenen/sw6-media-optimizer) ⭐ 31 | 🐛 3 | 🌐 PHP | 📅 2024-05-02
 * [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2025-12-21
 * [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ⭐ 11 | 🐛 3 | 🌐 HTML | 📅 2026-06-22
-* [Frosh Lazy Sizes >6.x](https://github.com/FriendsOfShopware/FroshLazySizes) ⭐ 8 | 🐛 4 | 🌐 Twig | 📅 2025-07-10
+* [Frosh Lazy Sizes >6.x](https://github.com/FriendsOfShopware/FroshLazySizes) ⭐ 8 | 🐛 5 | 🌐 Twig | 📅 2025-07-10
 * [Instant Page 6.x](https://github.com/sidworks-dev/sw-plugin-instant-page) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-27
 
 ### DevOps
@@ -160,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
