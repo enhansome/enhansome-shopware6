@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 3 | 🌐 PHP | 📅 2026-09-30
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 1 | 🌐 PHP | 📅 2026-10-01
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 0 | 🌐 PHP | 📅 2026-09-30
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 12 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -22,7 +22,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-09-18
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-09-29
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-10-01
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -106,7 +106,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
 * [Template inspector for Shopware 6](https://github.com/sidworks-dev/sw-plugin-devtools) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-09 (Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)
-* [Composer file patcher](https://github.com/sidworks-dev/composer-patcher) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-12-12
+* [Composer file patcher](https://github.com/sidworks-dev/composer-patcher) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-30
 * [SMS77.io Shopware 6 Plugin >6.x](https://github.com/sms77io/shopware6-plugin) ⭐ 0 | 🐛 5 | 🌐 PHP | 📅 2026-05-26
 * [Yireo's Shopware 6 Extensions >6.x](https://github.com/yireo-shopware6) (Template Name, WebP, Additional Commands)
 
@@ -160,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
