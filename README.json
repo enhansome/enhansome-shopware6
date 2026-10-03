@@ -985,7 +985,7 @@
                 "id": 1015567393,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:17:22Z",
+                "last_commit": "2026-10-03T09:06:56Z",
                 "open_issues": 0,
                 "owner": "actualizer",
                 "repo": "ActPriceHide",
@@ -1625,7 +1625,7 @@
                 "id": 1306637150,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-27T14:11:53Z",
+                "last_commit": "2026-10-03T09:06:58Z",
                 "open_issues": 0,
                 "owner": "actualizer",
                 "repo": "ActPasskey",
@@ -2270,7 +2270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:10.991Z",
+    "last_updated": "2026-10-03T09:36:29.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",

@@ -58,7 +58,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Product Flip/Hover Images >6.6](https://github.com/sidworks-dev/sw-plugin-product-flip-image) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-04-23
 * [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2022-01-28
 * [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels) ⭐ 2 | 🐛 3 | 🌐 PHP | 📅 2026-07-10
-* [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-10-01 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
+* [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
 * [VatLayer VAT check >6.x](https://github.com/Memo-ict/vatlayer-sw6) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2021-08-06
 * [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2024-07-08
 * [Show documents in separate tab >6.6](https://github.com/ukeszler/KeszlerDocumentTab) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2025-11-10
@@ -91,7 +91,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 43 | 🐛 6 | 🌐 PHP | 📅 2026-09-07
 * [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 43 | 🐛 11 | 🌐 PHP | 📅 2025-10-07
 * [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ⭐ 20 | 🐛 9 | 🌐 PHP | 📅 2026-03-25
-* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-27 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
+* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
 
 ### Marketing
 
