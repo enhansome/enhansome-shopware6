@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 67 | 🐛 0 | 🌐 PHP | 📅 2026-10-02
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-10-02
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-10-01
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 12 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -22,7 +22,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-09-18
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-10-01
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-10-02
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -125,7 +125,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 * [Image optimizer 6.x](https://github.com/runelaenen/sw6-media-optimizer) ⭐ 31 | 🐛 3 | 🌐 PHP | 📅 2024-05-02
 * [Frosh ThumbnailProcessor >6.x](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2025-12-21
-* [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ⭐ 11 | 🐛 4 | 🌐 HTML | 📅 2026-06-22
+* [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ⭐ 11 | 🐛 2 | 🌐 HTML | 📅 2026-10-02
 * [Frosh Lazy Sizes >6.x](https://github.com/FriendsOfShopware/FroshLazySizes) ⭐ 8 | 🐛 5 | 🌐 Twig | 📅 2025-07-10
 * [Instant Page 6.x](https://github.com/sidworks-dev/sw-plugin-instant-page) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-27
 
@@ -160,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

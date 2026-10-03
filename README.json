@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Mollie >6.x",
-              "description": null,
+              "description": "mollie/Shopware6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,11 +17,11 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:41:06Z",
+                "last_commit": "2026-10-02T12:11:16Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
-                "stars": 67,
+                "stars": 66,
                 "topics": [
                   "mollie",
                   "payments",
@@ -33,7 +33,7 @@
             {
               "node_type": "item",
               "title": "Adyen >6.3",
-              "description": null,
+              "description": "Adyen/adyen-shopware6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -66,7 +66,7 @@
             {
               "node_type": "item",
               "title": "PayOne >6.1",
-              "description": null,
+              "description": "PAYONE-GmbH/shopware-6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -97,7 +97,7 @@
             {
               "node_type": "item",
               "title": "MultiSafePay >6.4",
-              "description": null,
+              "description": "MultiSafepay/shopware6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -123,7 +123,7 @@
             {
               "node_type": "item",
               "title": "Show SEPA payment fields on checkout page >6.3",
-              "description": null,
+              "description": "steampixel/SteamPixelSepa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -144,7 +144,7 @@
             {
               "node_type": "item",
               "title": "Wallee >6.5",
-              "description": null,
+              "description": "wallee-payment/shopware-6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -173,7 +173,7 @@
             {
               "node_type": "item",
               "title": "Pay.nl >6.3",
-              "description": null,
+              "description": "paynl/shopware6-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -194,7 +194,7 @@
             {
               "node_type": "item",
               "title": "Tpay Integration by CREHLER >6.x",
-              "description": null,
+              "description": "crehler/CrehlerTpay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -215,7 +215,7 @@
             {
               "node_type": "item",
               "title": "Buckaroo >6.5",
-              "description": null,
+              "description": "buckaroo-it/Shopware6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,8 +224,8 @@
                 "id": 241079501,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-10-01T08:59:54Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-02T14:39:06Z",
+                "open_issues": 1,
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
                 "stars": 3,
@@ -246,7 +246,7 @@
             {
               "node_type": "item",
               "title": "Burst >6.2",
-              "description": null,
+              "description": "felixbrucker/shopware-burst-payment",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "flagbit/shopware6-tailwind-theme >6.x",
-              "description": null,
+              "description": "flagbit/shopware6-tailwind-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,7 +305,7 @@
             {
               "node_type": "item",
               "title": "digitalmanufaktur - shopware6-manu-theme >6.x",
-              "description": null,
+              "description": "digitalmanufaktur/shopware6-manu-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -336,7 +336,7 @@
             {
               "node_type": "item",
               "title": "Product Compare >6.4",
-              "description": null,
+              "description": "FriendsOfShopware/FroshProductCompare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +357,7 @@
             {
               "node_type": "item",
               "title": "Recently Viewed Product Slider >6.3",
-              "description": null,
+              "description": "vienthuong/RecentlyViewedProduct",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -387,7 +387,7 @@
             {
               "node_type": "item",
               "title": "Advanced Banners / Digital Publishing <6.4",
-              "description": null,
+              "description": "runelaenen/shopware6-advanced-banners",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -418,7 +418,7 @@
             {
               "node_type": "item",
               "title": "Shopware Maps >6.x",
-              "description": null,
+              "description": "Shape-and-Shift/shopware-maps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,7 +446,7 @@
             {
               "node_type": "item",
               "title": "Elgentos - Seo Canonical URL >6.x",
-              "description": null,
+              "description": "elgentos/shopware-seo-canonical-url",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "Login required for categories >6.x",
-              "description": null,
+              "description": "Shape-and-Shift/shopware-login-required",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +498,7 @@
             {
               "node_type": "item",
               "title": "Dropdown Menu >6.x",
-              "description": null,
+              "description": "sschreier/SschreierDropdownMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -530,7 +530,7 @@
             {
               "node_type": "item",
               "title": "Tab for Product Detail Page >6.x",
-              "description": null,
+              "description": "sschreier/SschreierTabProductDetailPage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "Lazysizes Lazyload images >6.x",
-              "description": null,
+              "description": "stefanpoensgen/SptecLazyload",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -584,7 +584,7 @@
             {
               "node_type": "item",
               "title": "Product Badges in Category and PDP >6.x",
-              "description": null,
+              "description": "sschreier/SschreierBadgeNavigationProductDetailPage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -613,7 +613,7 @@
             {
               "node_type": "item",
               "title": "Show discount line in cart summary >6.4",
-              "description": null,
+              "description": "MelvinAchterhuis/MelvDiscountSummary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -634,7 +634,7 @@
             {
               "node_type": "item",
               "title": "Shopware Animate On Scroll >6.x",
-              "description": null,
+              "description": "Shape-and-Shift/shopware-aos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -655,7 +655,7 @@
             {
               "node_type": "item",
               "title": "Shopware Tags",
-              "description": null,
+              "description": "Shape-and-Shift/shopware-tags",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "Topbar or Footer Notifications >6.x",
-              "description": null,
+              "description": "sschreier/SschreierTopbarNotifications",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -709,7 +709,7 @@
             {
               "node_type": "item",
               "title": "Sticky Menu >6.x",
-              "description": null,
+              "description": "sschreier/SschreierStickyMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -739,7 +739,7 @@
             {
               "node_type": "item",
               "title": "Deutsche Post Autocomplete >6.5",
-              "description": null,
+              "description": "netresearch/deutschepost-module-autocomplete-sw6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -766,7 +766,7 @@
             {
               "node_type": "item",
               "title": "Show sold out information for variants >6.4",
-              "description": null,
+              "description": "MelvinAchterhuis/MelvSoldOutVariants",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -787,7 +787,7 @@
             {
               "node_type": "item",
               "title": "Brand Slider",
-              "description": null,
+              "description": "moori-net/MoorlCmsBrandSlider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "Elgentos - Default Sort Order >6.x",
-              "description": null,
+              "description": "elgentos/shopware-default-sort-order",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -832,7 +832,7 @@
             {
               "node_type": "item",
               "title": "Twitter Timeline integration >6.4",
-              "description": null,
+              "description": "flagbit/shopware6-twitter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -853,7 +853,7 @@
             {
               "node_type": "item",
               "title": "Matomo eCommerce tracking >6.6.x",
-              "description": null,
+              "description": "akshaynikhare/SloxMatomoEcomerce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -878,7 +878,7 @@
             {
               "node_type": "item",
               "title": "Social Media Icons >6.x",
-              "description": null,
+              "description": "sebastianvolk/shopware-social-media-icons",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -904,7 +904,7 @@
             {
               "node_type": "item",
               "title": "Product Flip/Hover Images >6.6",
-              "description": null,
+              "description": "sidworks-dev/sw-plugin-product-flip-image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "Editable meta robots by CREHLER >6.x",
-              "description": null,
+              "description": "crehler/CrehlerMetaRobots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -952,7 +952,7 @@
             {
               "node_type": "item",
               "title": "Product Labels Plugin >6.6",
-              "description": null,
+              "description": "sidworks-dev/sw-plugin-product-labels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1003,7 +1003,7 @@
             {
               "node_type": "item",
               "title": "VatLayer VAT check >6.x",
-              "description": null,
+              "description": "Memo-ict/vatlayer-sw6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1024,7 +1024,7 @@
             {
               "node_type": "item",
               "title": "display additional currency in storefront >6.6.x",
-              "description": null,
+              "description": "akshaynikhare/SloxAdditionalCurrency",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1048,7 +1048,7 @@
             {
               "node_type": "item",
               "title": "Show documents in separate tab >6.6",
-              "description": null,
+              "description": "ukeszler/KeszlerDocumentTab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1069,7 +1069,7 @@
             {
               "node_type": "item",
               "title": "BerryPath Guided Selling Flow Widget >6.6",
-              "description": null,
+              "description": "BerryPath/shopware6-berrypath-flow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1094,7 +1094,7 @@
             {
               "node_type": "item",
               "title": "Product Filter Count > 6.6",
-              "description": null,
+              "description": "sidworks-dev/sw-plugin-filter-counts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,7 +1118,7 @@
             {
               "node_type": "item",
               "title": "Shopauskunft Integration > 6.x",
-              "description": null,
+              "description": "matzmuda/shopware6-shopauskunft-widget",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1145,7 +1145,7 @@
             {
               "node_type": "item",
               "title": "Storefront (and product feed) shipping cost calculator >6.7",
-              "description": null,
+              "description": "ukeszler/KeszlerShippingContextPreset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1227,7 +1227,7 @@
             {
               "node_type": "item",
               "title": "Two Factor Auth 2FA > 6.x",
-              "description": null,
+              "description": "runelaenen/shopware6-two-factor-auth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1256,7 +1256,7 @@
             {
               "node_type": "item",
               "title": "Redirects >6.x",
-              "description": null,
+              "description": "runelaenen/sw6-redirects",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1283,7 +1283,7 @@
             {
               "node_type": "item",
               "title": "Order Advanced Filter >6.3",
-              "description": null,
+              "description": "leduc92/sbuorderadvancedfilter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1308,7 +1308,7 @@
             {
               "node_type": "item",
               "title": "Zero Margin Default CMS Blocks >6.4",
-              "description": null,
+              "description": "MelvinAchterhuis/MelvZeroMarginBlocks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1329,7 +1329,7 @@
             {
               "node_type": "item",
               "title": "Impersonation Admin User >6.3",
-              "description": null,
+              "description": "vienthuong/impersonation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1359,7 +1359,7 @@
             {
               "node_type": "item",
               "title": "Total Quantity In Cart Rule >6.x",
-              "description": null,
+              "description": "elgentos/shopware-total-qty-in-cart-rule",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1380,7 +1380,7 @@
             {
               "node_type": "item",
               "title": "Login as Customer >6.5",
-              "description": null,
+              "description": "Gainto/JblLoginAsCustomer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1401,7 +1401,7 @@
             {
               "node_type": "item",
               "title": "Shopware orders scanner >6.3",
-              "description": null,
+              "description": "nikolayk812/shopware-orders-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1422,7 +1422,7 @@
             {
               "node_type": "item",
               "title": "Auto Meta Details >6.1",
-              "description": null,
+              "description": "DevertNet/DevertAutoMetaDetails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1443,7 +1443,7 @@
             {
               "node_type": "item",
               "title": "Show company name and VAT ID in backend >6.4",
-              "description": null,
+              "description": "MelvinAchterhuis/MelvCustomerOverview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1490,7 +1490,7 @@
             {
               "node_type": "item",
               "title": "Maintenance Log-In >6.5",
-              "description": null,
+              "description": "Gainto/JblMaintenanceLogin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,7 +1511,7 @@
             {
               "node_type": "item",
               "title": "Enrich email template with delivery time and stock >6.7",
-              "description": null,
+              "description": "ukeszler/KeszlerDeliveryTimeInEmail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1539,7 +1539,7 @@
             {
               "node_type": "item",
               "title": "Shopware 6 Blog Plugin >6.x",
-              "description": null,
+              "description": "Werkstattl/OpenBlogware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1566,7 +1566,7 @@
             {
               "node_type": "item",
               "title": "Two Factor Auth 2FA >6.x",
-              "description": null,
+              "description": "runelaenen/shopware6-two-factor-auth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1595,7 +1595,7 @@
             {
               "node_type": "item",
               "title": "Frosh Platform Share Basket >6.4",
-              "description": null,
+              "description": "FriendsOfShopware/FroshPlatformShareBasket",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1652,7 +1652,7 @@
             {
               "node_type": "item",
               "title": "Search Results Insights Plugin >6.6",
-              "description": null,
+              "description": "sidworks-dev/sw-plugin-search-results",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1730,7 +1730,7 @@
             {
               "node_type": "item",
               "title": "Official Shopware 6 Migration Assistant >6.x",
-              "description": null,
+              "description": "shopware/SwagMigrationAssistant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1755,7 +1755,7 @@
             {
               "node_type": "item",
               "title": "Official Shopware 6 Migration Assistant Magento Profile >6.x",
-              "description": null,
+              "description": "shopware/SwagMigrationMagento",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1781,7 +1781,7 @@
             {
               "node_type": "item",
               "title": "Theme Preview >6.x",
-              "description": null,
+              "description": "hungmac-sw/MacThemePreview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1806,7 +1806,7 @@
             {
               "node_type": "item",
               "title": "Shopware 6 Additional Dev Tools >6.x",
-              "description": null,
+              "description": "mmeester/shopware6-dev-tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1855,7 +1855,7 @@
             {
               "node_type": "item",
               "title": "Composer file patcher",
-              "description": null,
+              "description": "sidworks-dev/composer-patcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1885,7 +1885,7 @@
             {
               "node_type": "item",
               "title": "SMS77.io Shopware 6 Plugin >6.x",
-              "description": null,
+              "description": "seven-io/shopware6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1919,7 +1919,7 @@
             {
               "node_type": "item",
               "title": "Image optimizer 6.x",
-              "description": null,
+              "description": "runelaenen/sw6-media-optimizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1947,7 +1947,7 @@
             {
               "node_type": "item",
               "title": "Frosh ThumbnailProcessor >6.x",
-              "description": null,
+              "description": "FriendsOfShopware/FroshPlatformThumbnailProcessor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1968,7 +1968,7 @@
             {
               "node_type": "item",
               "title": "Frosh HTML Minify >6.x",
-              "description": null,
+              "description": "FriendsOfShopware/FroshPlatformHtmlMinify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1977,8 +1977,8 @@
                 "id": 352562203,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-06-22T11:05:06Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-02T20:23:09Z",
+                "open_issues": 2,
                 "owner": "FriendsOfShopware",
                 "repo": "FroshPlatformHtmlMinify",
                 "stars": 11,
@@ -1989,7 +1989,7 @@
             {
               "node_type": "item",
               "title": "Frosh Lazy Sizes >6.x",
-              "description": null,
+              "description": "FriendsOfShopware/FroshLazySizes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2010,7 +2010,7 @@
             {
               "node_type": "item",
               "title": "Instant Page 6.x",
-              "description": null,
+              "description": "sidworks-dev/sw-plugin-instant-page",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2041,7 +2041,7 @@
             {
               "node_type": "item",
               "title": "Docker Compose Development Environment",
-              "description": null,
+              "description": "JeroenBoersma/docker-compose-development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2078,7 +2078,7 @@
             {
               "node_type": "item",
               "title": "Dockware >6.x",
-              "description": null,
+              "description": "dockware/dockware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2104,7 +2104,7 @@
             {
               "node_type": "item",
               "title": "Deploy with Bitbucket Pipelines",
-              "description": null,
+              "description": "sidworks-dev/sw-bitbucket-pipelines-deployer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2137,7 +2137,7 @@
             {
               "node_type": "item",
               "title": "WbmTagManagerEcomm - GTM integration and dataLayer configuration >6.x",
-              "description": null,
+              "description": "webmatch/WbmTagManagerEcomm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2165,7 +2165,7 @@
             {
               "node_type": "item",
               "title": "Dutch email templates >6.x",
-              "description": null,
+              "description": "elgentos/shopware-dutch-email-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2188,7 +2188,7 @@
             {
               "node_type": "item",
               "title": "BaseLinker Integration by CREHLER >6.x",
-              "description": null,
+              "description": "crehler/CrehlerBaseLinker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2214,7 +2214,7 @@
             {
               "node_type": "item",
               "title": "Edrone CRM Integration by CREHLER >6.x",
-              "description": null,
+              "description": "crehler/CrehlerEdroneCRM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2239,7 +2239,7 @@
             {
               "node_type": "item",
               "title": "Shopware Database Synchronizer 6.x",
-              "description": null,
+              "description": "sidworks-dev/sw-plugin-database-sync",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2270,7 +2270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:15:34.379Z",
+    "last_updated": "2026-10-03T05:06:10.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
