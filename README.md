@@ -14,21 +14,21 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-10-06
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-10-05
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 1 | 🌐 PHP | 📅 2026-10-07
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-10-07
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 12 | 🌐 PHP | 📅 2026-08-20
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-09-11
 * [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-09-18
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-10-05
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-10-07
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
 ### Theme
 
-* [flagbit/shopware6-tailwind-theme >6.x](https://github.com/flagbit/shopware6-tailwind-theme) ⭐ 55 | 🐛 1 | 🌐 Twig | 📅 2022-02-10
+* [flagbit/shopware6-tailwind-theme >6.x](https://github.com/flagbit/shopware6-tailwind-theme) ⭐ 53 | 🐛 1 | 🌐 Twig | 📅 2022-02-10
 * [digitalmanufaktur - shopware6-manu-theme >6.x](https://github.com/digitalmanufaktur/shopware6-manu-theme) ⭐ 42 | 🐛 9 | 🌐 Twig | 📅 2023-02-10
 
 ### Frontend
@@ -88,7 +88,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Customer Experience
 
-* [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 43 | 🐛 7 | 🌐 PHP | 📅 2026-09-07
+* [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 43 | 🐛 5 | 🌐 PHP | 📅 2026-10-07
 * [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 43 | 🐛 11 | 🌐 PHP | 📅 2025-10-07
 * [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ⭐ 20 | 🐛 9 | 🌐 PHP | 📅 2026-03-25
 * [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
@@ -101,7 +101,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Developer Experience
 
 * [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-03-06 (Generate a CMS element or block scaffolding within seconds)
-* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 1 | 🌐 PHP | 📅 2026-10-05
+* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-10-07
 * [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-09-25
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
@@ -160,4 +160,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
