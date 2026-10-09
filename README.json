@@ -17,11 +17,11 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-08T10:43:43Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-09T09:42:39Z",
+                "open_issues": 1,
                 "owner": "mollie",
                 "repo": "Shopware6",
-                "stars": 66,
+                "stars": 65,
                 "topics": [
                   "mollie",
                   "payments",
@@ -42,7 +42,7 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-08T08:59:24Z",
+                "last_commit": "2026-10-08T11:16:42Z",
                 "open_issues": 1,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
@@ -1117,6 +1117,33 @@
             },
             {
               "node_type": "item",
+              "title": "Free shipping progress bar >6.7",
+              "description": "(Offcanvas cart and checkout; the threshold is read automatically from the shipping method's price configuration.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Shopware 6 plugin that displays a free shipping progress bar in the offcanvas cart and checkout summary, showing customers how much more they need to spend to qualify for free shipping.",
+                "homepage": "https://actualize.de",
+                "id": 1167716764,
+                "language": "Twig",
+                "license": "MIT",
+                "last_commit": "2026-09-17T21:49:54Z",
+                "open_issues": 0,
+                "owner": "actualizer",
+                "repo": "ActFreeShippingBar",
+                "stars": 1,
+                "topics": [
+                  "shopware6",
+                  "shopware6-plugin",
+                  "shopware6-plugins",
+                  "sw6",
+                  "sw6-plugin"
+                ]
+              },
+              "first_seen": "2026-09-22T08:58:05.191Z"
+            },
+            {
+              "node_type": "item",
               "title": "Shopauskunft Integration > 6.x",
               "description": "matzmuda/shopware6-shopauskunft-widget",
               "children": [],
@@ -1162,33 +1189,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Free shipping progress bar >6.7",
-              "description": "(Offcanvas cart and checkout; the threshold is read automatically from the shipping method's price configuration.)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Shopware 6 plugin that displays a free shipping progress bar in the offcanvas cart and checkout summary, showing customers how much more they need to spend to qualify for free shipping.",
-                "homepage": "https://actualize.de",
-                "id": 1167716764,
-                "language": "Twig",
-                "license": "MIT",
-                "last_commit": "2026-09-17T21:49:54Z",
-                "open_issues": 0,
-                "owner": "actualizer",
-                "repo": "ActFreeShippingBar",
-                "stars": 0,
-                "topics": [
-                  "shopware6",
-                  "shopware6-plugin",
-                  "shopware6-plugins",
-                  "sw6",
-                  "sw6-plugin"
-                ]
-              },
-              "first_seen": "2026-09-22T08:58:05.191Z"
             },
             {
               "node_type": "item",
@@ -1739,8 +1739,8 @@
                 "id": 187019019,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-07T09:33:58Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-09T10:59:25Z",
+                "open_issues": 4,
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
                 "stars": 20,
@@ -2270,7 +2270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:06:11.326Z",
+    "last_updated": "2026-10-09T11:05:16.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
