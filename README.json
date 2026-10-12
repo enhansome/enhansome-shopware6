@@ -17,11 +17,11 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-11T02:48:02Z",
+                "last_commit": "2026-10-12T11:14:08Z",
                 "open_issues": 1,
                 "owner": "mollie",
                 "repo": "Shopware6",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "mollie",
                   "payments",
@@ -224,7 +224,7 @@
                 "id": 241079501,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-10-09T11:37:57Z",
+                "last_commit": "2026-10-12T08:37:01Z",
                 "open_issues": 0,
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
@@ -1739,8 +1739,8 @@
                 "id": 187019019,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-09T10:59:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-12T07:27:08Z",
+                "open_issues": 3,
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
                 "stars": 20,
@@ -2270,7 +2270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:31:08.470Z",
+    "last_updated": "2026-10-12T11:36:10.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
