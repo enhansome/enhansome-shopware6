@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-10-17
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-10-18
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-10-16
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-10-08
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -85,6 +85,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-06-11 (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
 * [Maintenance Log-In >6.5](https://github.com/Gainto/JblMaintenanceLogin) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2023-11-07
 * [Enrich email template with delivery time and stock >6.7](https://github.com/ukeszler/KeszlerDeliveryTimeInEmail) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2025-12-10
+* [Country translations for every shop language >6.6](https://github.com/kommora-de/shopware-country-translations) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-17 (Fills the country names of all shop languages from CLDR / Symfony Intl, offline and without configuration)
 
 ### Customer Experience
 
@@ -133,7 +134,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 * [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development) ⭐ 210 | 🐛 16 | 🌐 Shell | 📅 2025-11-27
 * [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 168 | 🐛 91 | 🌐 PHP | 📅 2026-01-13
-* [madock Development Environment](https://github.com/faradey/madock) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-10-16
+* [madock Development Environment](https://github.com/faradey/madock) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-10-17
 * [Deploy with Bitbucket Pipelines](https://github.com/sidworks-dev/sw-bitbucket-pipelines-deployer) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-04-14
 * [Devenv.sh Development Environment](https://developer.shopware.com/docs/guides/installation/devenv.html)
 * [DDEV Development Environment](https://docs.ddev.com/en/stable/)
@@ -161,4 +162,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

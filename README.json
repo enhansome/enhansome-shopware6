@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-17T02:50:41Z",
+                "last_commit": "2026-10-18T03:08:17Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -1528,6 +1528,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Country translations for every shop language >6.6",
+              "description": "(Fills the country names of all shop languages from CLDR / Symfony Intl, offline and without configuration)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Shopware 6 plugin: automatically translates all country names into every shop language (CLDR / Symfony Intl). Free, MIT.",
+                "homepage": "https://kommora.de/shopware-plugins",
+                "id": 1423339810,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-17T13:07:52Z",
+                "open_issues": 0,
+                "owner": "kommora-de",
+                "repo": "shopware-country-translations",
+                "stars": 0,
+                "topics": [
+                  "cldr",
+                  "ecommerce",
+                  "i18n",
+                  "shopware",
+                  "shopware-6",
+                  "shopware-plugin",
+                  "shopware6",
+                  "translations"
+                ]
+              },
+              "first_seen": "2026-10-18T08:29:51.353Z"
             }
           ],
           "description": null,
@@ -2113,7 +2143,7 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-16T15:21:18Z",
+                "last_commit": "2026-10-17T15:41:31Z",
                 "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
@@ -2296,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:12:32.361Z",
+    "last_updated": "2026-10-18T08:29:51.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
@@ -2304,7 +2334,7 @@
       "id": 264260228,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-13T10:09:37Z",
+      "last_commit": "2026-10-17T13:18:11Z",
       "open_issues": 0,
       "owner": "sidworks-dev",
       "repo": "awesome-shopware6",
@@ -2320,7 +2350,7 @@
         "shopware6"
       ]
     },
-    "original_repository_sha": "e925665d3d88823a2cdb27651521b91ae1b6ea19",
+    "original_repository_sha": "3848f266aff47e24fefbce91335b45ce73a21aea",
     "enhanced_repository": "enhansome/enhansome-shopware6",
     "enhanced_repository_description": null,
     "title": "Awesome Shopware 6 with stars"
