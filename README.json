@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-18T03:08:17Z",
+                "last_commit": "2026-10-19T02:56:33Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -1770,7 +1770,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-16T14:04:06Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
                 "stars": 20,
@@ -2143,7 +2143,7 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-17T15:41:31Z",
+                "last_commit": "2026-10-18T17:57:02Z",
                 "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:29:51.353Z",
+    "last_updated": "2026-10-19T09:31:32.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
