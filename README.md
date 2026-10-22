@@ -14,13 +14,13 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 1 | 🌐 PHP | 📅 2026-10-21
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-10-21
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 1 | 🌐 PHP | 📅 2026-10-22
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 2 | 🌐 PHP | 📅 2026-10-21
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-10-08
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-10-14
-* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 7 | 🌐 PHP | 📅 2026-10-21
+* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 6 | 🌐 PHP | 📅 2026-10-21
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
 * [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-10-19
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
@@ -102,8 +102,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Developer Experience
 
 * [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-03-06 (Generate a CMS element or block scaffolding within seconds)
-* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 4 | 🌐 PHP | 📅 2026-10-21
-* [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2026-10-21
+* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 0 | 🌐 PHP | 📅 2026-10-22
+* [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-10-21
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
 * [Template inspector for Shopware 6](https://github.com/sidworks-dev/sw-plugin-devtools) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-09 (Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)
@@ -133,8 +133,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### DevOps
 
 * [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development) ⭐ 210 | 🐛 16 | 🌐 Shell | 📅 2025-11-27
-* [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 168 | 🐛 91 | 🌐 PHP | 📅 2026-01-13
-* [madock Development Environment](https://github.com/faradey/madock) ⭐ 43 | 🐛 2 | 🌐 Go | 📅 2026-10-20
+* [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 168 | 🐛 91 | 🌐 PHP | 📅 2026-10-21
+* [madock Development Environment](https://github.com/faradey/madock) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-10-21
 * [Deploy with Bitbucket Pipelines](https://github.com/sidworks-dev/sw-bitbucket-pipelines-deployer) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-04-14
 * [Devenv.sh Development Environment](https://developer.shopware.com/docs/guides/installation/devenv.html)
 * [DDEV Development Environment](https://docs.ddev.com/en/stable/)
@@ -162,4 +162,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
