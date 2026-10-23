@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 1 | 🌐 PHP | 📅 2026-10-22
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 2 | 🌐 PHP | 📅 2026-10-23
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 2 | 🌐 PHP | 📅 2026-10-21
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-10-08
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -57,7 +57,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Social Media Icons >6.x](https://github.com/sebastianvolk/shopware-social-media-icons) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2020-07-04
 * [Product Flip/Hover Images >6.6](https://github.com/sidworks-dev/sw-plugin-product-flip-image) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-04-23
 * [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2022-01-28
-* [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels) ⭐ 2 | 🐛 3 | 🌐 PHP | 📅 2026-07-10
+* [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels) ⭐ 2 | 🐛 3 | 🌐 PHP | 📅 2026-10-22
 * [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
 * [VatLayer VAT check >6.x](https://github.com/Memo-ict/vatlayer-sw6) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2021-08-06
 * [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2024-07-08
@@ -133,8 +133,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### DevOps
 
 * [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development) ⭐ 210 | 🐛 16 | 🌐 Shell | 📅 2025-11-27
-* [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 168 | 🐛 91 | 🌐 PHP | 📅 2026-10-21
-* [madock Development Environment](https://github.com/faradey/madock) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-10-21
+* [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 168 | 🐛 91 | 🌐 PHP | 📅 2026-10-22
+* [madock Development Environment](https://github.com/faradey/madock) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-10-22
 * [Deploy with Bitbucket Pipelines](https://github.com/sidworks-dev/sw-bitbucket-pipelines-deployer) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-04-14
 * [Devenv.sh Development Environment](https://developer.shopware.com/docs/guides/installation/devenv.html)
 * [DDEV Development Environment](https://docs.ddev.com/en/stable/)
@@ -162,4 +162,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
