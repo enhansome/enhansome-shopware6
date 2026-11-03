@@ -17,7 +17,7 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-02T09:44:19Z",
+                "last_commit": "2026-11-03T02:02:43Z",
                 "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
@@ -42,7 +42,7 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-30T12:52:51Z",
+                "last_commit": "2026-11-03T10:40:06Z",
                 "open_issues": 4,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
@@ -182,12 +182,43 @@
                 "id": 253767821,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-11-02T10:05:32Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-03T10:58:59Z",
+                "open_issues": 7,
                 "owner": "paynl",
                 "repo": "shopware6-plugin",
                 "stars": 4,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T15:51:51.618Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Buckaroo >6.5",
+              "description": "buckaroo-it/Shopware6",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repository containing the Shopware 6 Payment Plugin by Buckaroo",
+                "homepage": null,
+                "id": 241079501,
+                "language": "PHP",
+                "license": null,
+                "last_commit": "2026-11-03T09:33:38Z",
+                "open_issues": 1,
+                "owner": "buckaroo-it",
+                "repo": "Shopware6",
+                "stars": 4,
+                "topics": [
+                  "bancontact",
+                  "buckaroo",
+                  "creditcard",
+                  "ideal",
+                  "paymentmethods",
+                  "shopware",
+                  "shopware-payment",
+                  "shopware6",
+                  "shopware6-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -209,37 +240,6 @@
                 "repo": "CrehlerTpay",
                 "stars": 3,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T15:51:51.618Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Buckaroo >6.5",
-              "description": "buckaroo-it/Shopware6",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Repository containing the Shopware 6 Payment Plugin by Buckaroo",
-                "homepage": null,
-                "id": 241079501,
-                "language": "PHP",
-                "license": null,
-                "last_commit": "2026-10-30T14:53:08Z",
-                "open_issues": 2,
-                "owner": "buckaroo-it",
-                "repo": "Shopware6",
-                "stars": 3,
-                "topics": [
-                  "bancontact",
-                  "buckaroo",
-                  "creditcard",
-                  "ideal",
-                  "paymentmethods",
-                  "shopware",
-                  "shopware-payment",
-                  "shopware6",
-                  "shopware6-plugin"
-                ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
             },
@@ -1240,7 +1240,7 @@
                 "open_issues": 8,
                 "owner": "runelaenen",
                 "repo": "shopware6-two-factor-auth",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "hacktoberfest",
                   "shopware",
@@ -1510,6 +1510,34 @@
             },
             {
               "node_type": "item",
+              "title": "EU VAT ID check (VIES) >6.6",
+              "description": "(Checks business customers' VAT IDs live against the EU VIES database at registration and profile edit, so only confirmed VAT IDs get Shopware's tax-free company price; stores the VIES result on each order.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Live EU VAT ID check (VIES) for Shopware 6: only VIES-confirmed VAT IDs get the tax-free company price. By W System.",
+                "homepage": "https://wsystem.dev",
+                "id": 1437439143,
+                "language": "PHP",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-29T04:41:50Z",
+                "open_issues": 0,
+                "owner": "wsystemdev",
+                "repo": "shopware-eu-vat-check",
+                "stars": 0,
+                "topics": [
+                  "reverse-charge",
+                  "shopware",
+                  "shopware-plugin",
+                  "shopware6",
+                  "vat",
+                  "vies"
+                ]
+              },
+              "first_seen": "2026-11-03T11:33:14.747Z"
+            },
+            {
+              "node_type": "item",
               "title": "Enrich email template with delivery time and stock >6.7",
               "description": "ukeszler/KeszlerDeliveryTimeInEmail",
               "children": [],
@@ -1609,7 +1637,7 @@
                 "open_issues": 8,
                 "owner": "runelaenen",
                 "repo": "shopware6-two-factor-auth",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "hacktoberfest",
                   "shopware",
@@ -1659,7 +1687,7 @@
                 "open_issues": 0,
                 "owner": "actualizer",
                 "repo": "ActPasskey",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "passkey",
                   "passkey-authentication",
@@ -2144,7 +2172,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-01T18:13:27Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42,
@@ -2326,7 +2354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T11:57:13.220Z",
+    "last_updated": "2026-11-03T11:33:14.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
@@ -2334,8 +2362,8 @@
       "id": 264260228,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-17T13:18:11Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-02T14:38:03Z",
+      "open_issues": 0,
       "owner": "sidworks-dev",
       "repo": "awesome-shopware6",
       "stars": 218,
@@ -2350,7 +2378,7 @@
         "shopware6"
       ]
     },
-    "original_repository_sha": "3848f266aff47e24fefbce91335b45ce73a21aea",
+    "original_repository_sha": "111e53b33aef57e021db5ffe83436da0ab43ae3e",
     "enhanced_repository": "enhansome/enhansome-shopware6",
     "enhanced_repository_description": null,
     "title": "Awesome Shopware 6 with stars"

@@ -14,15 +14,15 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-11-02
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-10-30
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-11-03
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-11-03
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-10-08
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-11-02
-* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 6 | 🌐 PHP | 📅 2026-11-02
+* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 7 | 🌐 PHP | 📅 2026-11-03
+* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2026-11-03
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
-* [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-10-30
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
 * [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
 
@@ -72,7 +72,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Administration
 
-* [Two Factor Auth 2FA > 6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 43 | 🐛 8 | 🌐 PHP | 📅 2026-10-29
+* [Two Factor Auth 2FA > 6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 44 | 🐛 8 | 🌐 PHP | 📅 2026-10-29
 * [Redirects >6.x](https://github.com/runelaenen/sw6-redirects) ⭐ 25 | 🐛 3 | 🌐 PHP | 📅 2023-10-20
 * [Order Advanced Filter >6.3](https://github.com/leduc92/sbuorderadvancedfilter) ⭐ 19 | 🐛 0 | 🌐 Twig | 📅 2021-08-14
 * [Zero Margin Default CMS Blocks >6.4](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-23
@@ -84,15 +84,16 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Show company name and VAT ID in backend >6.4](https://github.com/MelvinAchterhuis/MelvCustomerOverview) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-14
 * [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-06-11 (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
 * [Maintenance Log-In >6.5](https://github.com/Gainto/JblMaintenanceLogin) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2023-11-07
+* [EU VAT ID check (VIES) >6.6](https://github.com/wsystemdev/shopware-eu-vat-check) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-29 (Checks business customers' VAT IDs live against the EU VIES database at registration and profile edit, so only confirmed VAT IDs get Shopware's tax-free company price; stores the VIES result on each order.)
 * [Enrich email template with delivery time and stock >6.7](https://github.com/ukeszler/KeszlerDeliveryTimeInEmail) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2025-12-10
 * [Country translations for every shop language >6.6](https://github.com/kommora-de/shopware-country-translations) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-17 (Fills the country names of all shop languages from CLDR / Symfony Intl, offline and without configuration)
 
 ### Customer Experience
 
 * [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware) ⭐ 45 | 🐛 3 | 🌐 PHP | 📅 2026-10-07
-* [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 43 | 🐛 8 | 🌐 PHP | 📅 2026-10-29
+* [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth) ⭐ 44 | 🐛 8 | 🌐 PHP | 📅 2026-10-29
 * [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ⭐ 20 | 🐛 9 | 🌐 PHP | 📅 2026-03-25
-* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-27 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
+* [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-10-27 (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
 
 ### Marketing
 
@@ -134,7 +135,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 * [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development) ⭐ 210 | 🐛 16 | 🌐 Shell | 📅 2025-11-27
 * [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 168 | 🐛 91 | 🌐 PHP | 📅 2026-10-22
-* [madock Development Environment](https://github.com/faradey/madock) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2026-11-01
+* [madock Development Environment](https://github.com/faradey/madock) ⭐ 42 | 🐛 2 | 🌐 Go | 📅 2026-11-01
 * [Deploy with Bitbucket Pipelines](https://github.com/sidworks-dev/sw-bitbucket-pipelines-deployer) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-04-14
 * [Devenv.sh Development Environment](https://developer.shopware.com/docs/guides/installation/devenv.html)
 * [DDEV Development Environment](https://docs.ddev.com/en/stable/)
@@ -162,4 +163,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
