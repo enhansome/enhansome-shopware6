@@ -17,8 +17,8 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-05T11:35:19Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-06T11:20:22Z",
+                "open_issues": 0,
                 "owner": "mollie",
                 "repo": "Shopware6",
                 "stars": 66,
@@ -42,8 +42,8 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-05T11:47:07Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-06T09:30:13Z",
+                "open_issues": 1,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
                 "stars": 23,
@@ -203,7 +203,7 @@
                 "id": 241079501,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-11-05T10:33:20Z",
+                "last_commit": "2026-11-05T15:03:11Z",
                 "open_issues": 2,
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
@@ -558,31 +558,6 @@
             },
             {
               "node_type": "item",
-              "title": "Lazysizes Lazyload images >6.x",
-              "description": "stefanpoensgen/SptecLazyload",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Simple integration of lazysizes into Shopware 6.",
-                "homepage": null,
-                "id": 242853913,
-                "language": "Twig",
-                "license": "MIT",
-                "last_commit": "2022-10-14T08:00:30Z",
-                "open_issues": 0,
-                "owner": "stefanpoensgen",
-                "repo": "SptecLazyload",
-                "stars": 16,
-                "topics": [
-                  "shopware-platform-plugin",
-                  "shopware-plugin",
-                  "shopware6"
-                ]
-              },
-              "first_seen": "2026-08-28T15:51:51.618Z"
-            },
-            {
-              "node_type": "item",
               "title": "Product Badges in Category and PDP >6.x",
               "description": "sschreier/SschreierBadgeNavigationProductDetailPage",
               "children": [],
@@ -606,6 +581,31 @@
                   "shopware-plugin",
                   "shopware6",
                   "shopware6-plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T15:51:51.618Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Lazysizes Lazyload images >6.x",
+              "description": "stefanpoensgen/SptecLazyload",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Simple integration of lazysizes into Shopware 6.",
+                "homepage": null,
+                "id": 242853913,
+                "language": "Twig",
+                "license": "MIT",
+                "last_commit": "2022-10-14T08:00:30Z",
+                "open_issues": 0,
+                "owner": "stefanpoensgen",
+                "repo": "SptecLazyload",
+                "stars": 15,
+                "topics": [
+                  "shopware-platform-plugin",
+                  "shopware-plugin",
+                  "shopware6"
                 ]
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
@@ -1372,7 +1372,7 @@
                 "open_issues": 0,
                 "owner": "elgentos",
                 "repo": "shopware-total-qty-in-cart-rule",
-                "stars": 12,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:51:51.618Z"
@@ -1797,7 +1797,7 @@
                 "id": 187019019,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-05T09:03:55Z",
+                "last_commit": "2026-11-06T10:21:51Z",
                 "open_issues": 1,
                 "owner": "shopware",
                 "repo": "SwagMigrationAssistant",
@@ -2149,7 +2149,7 @@
                 "open_issues": 91,
                 "owner": "dockware",
                 "repo": "dockware",
-                "stars": 168,
+                "stars": 167,
                 "topics": [
                   "developer-tools",
                   "devops",
@@ -2171,8 +2171,8 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-05T10:16:24Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-05T23:18:00Z",
+                "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42,
@@ -2354,7 +2354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:48:05.338Z",
+    "last_updated": "2026-11-06T11:44:09.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",

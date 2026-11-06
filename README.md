@@ -14,8 +14,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 1 | 🌐 PHP | 📅 2026-11-05
-* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 5 | 🌐 PHP | 📅 2026-11-05
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-11-06
+* [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-11-06
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-10-08
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
@@ -41,8 +41,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Login required for categories >6.x](https://github.com/Shape-and-Shift/shopware-login-required) ⭐ 18 | 🐛 3 | 🌐 PHP | 📅 2021-07-12
 * [Dropdown Menu >6.x](https://github.com/sschreier/sschreierDropdownmenu) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31
 * [Tab for Product Detail Page >6.x](https://github.com/sschreier/SschreierTabProductDetailPage) ⭐ 18 | 🐛 0 | 🌐 Twig | 📅 2026-11-01
-* [Lazysizes Lazyload images >6.x](https://github.com/stefanpoensgen/SptecLazyload) ⚠️ Archived
 * [Product Badges in Category and PDP >6.x](https://github.com/sschreier/SschreierBadgeNavigationProductDetailPage) ⭐ 16 | 🐛 0 | 🌐 Twig | 📅 2026-10-31
+* [Lazysizes Lazyload images >6.x](https://github.com/stefanpoensgen/SptecLazyload) ⚠️ Archived
 * [Show discount line in cart summary >6.4](https://github.com/MelvinAchterhuis/MelvDiscountSummary) ⭐ 11 | 🐛 0 | 🌐 Twig | 📅 2024-01-11
 * [Shopware Animate On Scroll >6.x](https://github.com/Shape-and-Shift/shopware-aos) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-19
 * [Shopware Tags](https://github.com/Shape-and-Shift/shopware-tags) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2020-03-19
@@ -77,7 +77,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Order Advanced Filter >6.3](https://github.com/leduc92/sbuorderadvancedfilter) ⭐ 19 | 🐛 0 | 🌐 Twig | 📅 2021-08-14
 * [Zero Margin Default CMS Blocks >6.4](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-23
 * [Impersonation Admin User >6.3](https://github.com/vienthuong/impersonation) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-15
-* [Total Quantity In Cart Rule >6.x](https://github.com/elgentos/shopware-total-qty-in-cart-rule) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2021-11-16
+* [Total Quantity In Cart Rule >6.x](https://github.com/elgentos/shopware-total-qty-in-cart-rule) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2021-11-16
 * [Login as Customer >6.5](https://github.com/Gainto/JblLoginAsCustomer) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2023-10-28
 * [Shopware orders scanner >6.3](https://github.com/nikolayk812/shopware-orders-scanner/) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2020-11-13
 * [Auto Meta Details >6.1](https://github.com/DevertNet/DevertAutoMetaDetails) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2021-03-01
@@ -103,7 +103,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### Developer Experience
 
 * [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-03-06 (Generate a CMS element or block scaffolding within seconds)
-* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 1 | 🌐 PHP | 📅 2026-11-05
+* [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant) ⭐ 20 | 🐛 1 | 🌐 PHP | 📅 2026-11-06
 * [Official Shopware 6 Migration Assistant Magento Profile >6.x](https://github.com/shopwareLabs/SwagMigrationMagento) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-10-21
 * [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2020-06-07
 * [Shopware 6 Additional Dev Tools >6.x](https://github.com/mmeester/shopware6-dev-tools) ⭐ 12 | 🐛 6 | 🌐 PHP | 📅 2020-03-26
@@ -134,8 +134,8 @@ Awesome Shopware 6 plugins, resources, themes, etc
 ### DevOps
 
 * [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development) ⭐ 210 | 🐛 16 | 🌐 Shell | 📅 2025-11-27
-* [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 168 | 🐛 91 | 🌐 PHP | 📅 2026-10-22
-* [madock Development Environment](https://github.com/faradey/madock) ⭐ 42 | 🐛 2 | 🌐 Go | 📅 2026-11-05
+* [Dockware >6.x](https://github.com/dockware/dockware) ⭐ 167 | 🐛 91 | 🌐 PHP | 📅 2026-10-22
+* [madock Development Environment](https://github.com/faradey/madock) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2026-11-05
 * [Deploy with Bitbucket Pipelines](https://github.com/sidworks-dev/sw-bitbucket-pipelines-deployer) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2025-04-14
 * [Devenv.sh Development Environment](https://developer.shopware.com/docs/guides/installation/devenv.html)
 * [DDEV Development Environment](https://docs.ddev.com/en/stable/)
@@ -163,4 +163,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
