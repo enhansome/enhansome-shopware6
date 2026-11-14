@@ -14,13 +14,13 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 1 | 🌐 PHP | 📅 2026-11-13
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2026-11-14
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 24 | 🐛 1 | 🌐 PHP | 📅 2026-11-13
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-10-08
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
 * [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2025-09-15
 * [Wallee >6.5](https://github.com/wallee-payment/shopware-6) ⭐ 6 | 🐛 19 | 🌐 PHP | 📅 2026-11-02
-* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 5 | 🌐 PHP | 📅 2026-11-13
+* [Pay.nl >6.3](https://github.com/paynl/shopware6-plugin) ⭐ 4 | 🐛 6 | 🌐 PHP | 📅 2026-11-13
 * [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2026-11-12
 * [Tpay Integration by CREHLER >6.x](https://github.com/crehler/CrehlerTpay) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-12-08
 * [Burst >6.2](https://github.com/felixbrucker/shopware-burst-payment) ⚠️ Archived
@@ -163,4 +163,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
