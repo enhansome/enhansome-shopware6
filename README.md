@@ -14,7 +14,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Payment Service Providers
 
-* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 2 | 🌐 PHP | 📅 2026-11-21
+* [Mollie >6.x](https://github.com/mollie/Shopware6) ⭐ 66 | 🐛 2 | 🌐 PHP | 📅 2026-11-22
 * [Adyen >6.3](https://github.com/Adyen/adyen-shopware6) ⭐ 24 | 🐛 1 | 🌐 PHP | 📅 2026-11-20
 * [PayOne >6.1](https://github.com/PAYONE-GmbH/shopware-6) ⭐ 21 | 🐛 11 | 🌐 PHP | 📅 2026-10-08
 * [MultiSafePay >6.4](https://github.com/MultiSafepay/shopware6) ⭐ 18 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -58,7 +58,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 * [Product Flip/Hover Images >6.6](https://github.com/sidworks-dev/sw-plugin-product-flip-image) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-04-23
 * [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2022-01-28
 * [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels) ⭐ 2 | 🐛 3 | 🌐 PHP | 📅 2026-10-22
-* [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-11-11 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
+* [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-11-21 (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
 * [VatLayer VAT check >6.x](https://github.com/Memo-ict/vatlayer-sw6) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2021-08-06
 * [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2024-07-08
 * [Show documents in separate tab >6.6](https://github.com/ukeszler/KeszlerDocumentTab) ⭐ 1 | 🐛 0 | 🌐 Twig | 📅 2025-11-10
@@ -163,4 +163,4 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
