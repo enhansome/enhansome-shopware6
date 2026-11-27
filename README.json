@@ -17,8 +17,8 @@
                 "id": 210370235,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-26T02:16:24Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-27T02:04:28Z",
+                "open_issues": 3,
                 "owner": "mollie",
                 "repo": "Shopware6",
                 "stars": 66,
@@ -42,7 +42,7 @@
                 "id": 252449274,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-25T12:41:05Z",
+                "last_commit": "2026-11-27T10:24:14Z",
                 "open_issues": 3,
                 "owner": "Adyen",
                 "repo": "adyen-shopware6",
@@ -79,7 +79,7 @@
                 "open_issues": 12,
                 "owner": "PAYONE-GmbH",
                 "repo": "shopware-6",
-                "stars": 21,
+                "stars": 20,
                 "topics": [
                   "payment",
                   "payment-gateway",
@@ -203,8 +203,8 @@
                 "id": 241079501,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-11-26T12:44:14Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-26T16:31:10Z",
+                "open_issues": 5,
                 "owner": "buckaroo-it",
                 "repo": "Shopware6",
                 "stars": 4,
@@ -2112,7 +2112,7 @@
                 "open_issues": 16,
                 "owner": "JeroenBoersma",
                 "repo": "docker-compose-development",
-                "stars": 210,
+                "stars": 209,
                 "topics": [
                   "development",
                   "docker",
@@ -2354,7 +2354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:29:09.363Z",
+    "last_updated": "2026-11-27T13:25:32.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Shopware 6 plugins, resources, themes, etc",
